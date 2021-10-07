@@ -20,9 +20,7 @@
 * **gp\_\*\_diabetes_meds**: glucose-lowering medications (including insulin). Note that 'actos ' includes a final space to prevent matching to medications containing lactose etc.
 * **gp\_\*\_glucagon**: glucagon
 * **gp_\*\_test_strips**: glucose testing strips. See below note on implementation.
-
 &nbsp;
-
 ### Implementation
 * Clinical data from UK Biobank (diagnoses, test results etc.) are provided in the gp_clinical file, which contains both read_2 and read_3 fields
   * **gp\_read2\_\*** files are lists of Read 2 codes to use with the read_2 field
