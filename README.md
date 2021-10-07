@@ -7,7 +7,7 @@
 * **hes_icd9_diabetes** and **hes_icd10_diabetes** are codes for any type of diabetes mellitus
 ### Implementation
 * Use codes as prefixes e.g. E10 is listed as a diabetes ICD10 code, so any code beginning with E10 is a diabetes ICD10 code
-* ICD codes do not contain lowercase letters, so case sensitivity is not required
+* ICD codes do not contain lowercase letters, so case sensitive searching is not required
 
 &nbsp;
 
