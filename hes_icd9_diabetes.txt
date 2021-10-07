@@ -1,0 +1,8 @@
+Code	Description
+249	Secondary diabetes mellitus
+250	Diabetes mellitus
+3572	Polyneuropathy in diabetes
+3620	Diabetic retinopathy
+6480	Diabetes mellitus in pregnancy
+7751	Neonatal diabetes mellitus
+9623	Poisoning by insulin or antidiabetic drugs

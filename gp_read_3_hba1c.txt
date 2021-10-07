@@ -1,0 +1,29 @@
+Code	Description
+42W..	Glycated haemoglobin
+42W1.	Hb. A1C < 7% - good control
+42W2.	Hb. A1C 7-10% - borderline
+42W3.	Hb. A1C > 10% - bad control
+42W4.	HbA1c level (DCCT aligned)
+42W5.	Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+42WZ.	Hb. A1C - diabetic control NOS
+42c..	HbA1 - diabetic control
+42c0.	HbA1 less than 7% - good control
+42c1.	HbA1 7-10% - borderline control
+42c2.	HbA1 greater than 10% - bad control
+42c3.	HbA1 level (DCCT aligned)
+44TB.	Haemoglobin A1c level
+44TC.	Haemoglobin A1 level
+44TL.	Total glycosylated haemoglobin level
+X772q	Haemoglobin A1c level
+X80U3	Glycated haemoglobin
+X80U4	Glycated haemoglobin-c fraction
+XE24t	Hb. A1C - diabetic control
+XaBLm	Haemoglobin A1 level
+XaCES	HbA1 - diabetic control
+XaCET	HbA1 less than 7% - good control
+XaCEU	HbA1 7-10% - borderline control
+XaCEV	HbA1 greater than 10% - bad control
+XaERo	HbA1 level (DCCT aligned)
+XaERp	HbA1c level (DCCT aligned)
+XaJNg	Total glycosylated haemoglobin level
+XaPbt	Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised

@@ -1,0 +1,131 @@
+Code	Description
+66Ay.	Gestational diabetes mellitus annual review
+8CE00	Gestational diabetes information leaflet given
+C101y	Other specified diabetes mellitus with ketoacidosis
+C103y	Other specified diabetes mellitus with coma
+C104y	Other specified diabetes mellitus with renal complications
+C105y	Other specified diabetes mellitus with ophthalmic complications
+C106y	Other specified diabetes mellitus with neurological complications
+C107y	Other specified diabetes mellitus with peripheral circulatory complications
+C108y	Other specified diabetes mellitus with multiple complications
+C1098	Metabolic syndrome
+C10A.	Jamaica type diabetes
+C10A0	Malnutrition-related diabetes mellitus with coma
+C10A1	Malnutrition-related diabetes mellitus with ketoacidosis
+C10A2	Malnutrition-related diabetes mellitus with renal complications
+C10A3	Malnutrition-related diabetes mellitus with ophthalmic complications
+C10A4	Malnutrition-related diabetes mellitus with neurological complications
+C10A5	Malnutrition-related diabetes mellitus with peripheral circulatory complications
+C10A6	Malnutrition-related diabetes mellitus with multiple complications
+C10A7	Malnutrition-related diabetes mellitus without complications
+C10AW	[X]Malnutrition-related diabetes mellitus with unspecified complications
+C10AX	[X]Malnutrition-related diabetes mellitus with other specified complications
+C10B.	Steroid-induced diabetes
+C10B0	Steroid-induced diabetes mellitus without complication
+C10C.	Diabetes mellitus autosomal dominant
+C10D.	Diabetes mellitus autosomal dominant type 2
+C10F8	Metabolic syndrome
+C10FS	Maternally inherited diabetes mellitus
+C10G.	Secondary pancreatic diabetes mellitus
+C10G0	Secondary pancreatic diabetes mellitus without complication
+C10H.	DM induced by non-steroid drug
+C10H0	Diabetes mellitus induced by non-steroid drugs without complication
+C10J.	Insulin autoimmune syndrome
+C10J0	Insulin autoimmune syndrome without complication
+C10K.	Insulin resistance - type A
+C10K0	Type A insulin resistance without complication
+C10L.	Fibrocalculous pancreatic diabetes
+C10L0	Fibrocalculous pancreatopathy without complication
+C10M.	Lipoatrophic diabetes
+C10M0	Lipoatrophic diabetes mellitus without complication
+C10N.	Secondary diabetes mellitus
+C10N0	Secondary diabetes mellitus without complication
+C10N1	Cystic fibrosis related diabetes mellitus
+C10Q.	Maturity onset diabetes of the young type 5
+C10yy	Other specified diabetes mellitus with other specified complications
+C10zy	Other specified diabetes mellitus with unspecified complications
+C11y0	Steroid-induced diabetes
+C135.	(Diabetes insipidus [& pituitary]) or (vasopressin deficiency)
+C1350	Central diabetes insipidus
+C1zy6	Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities
+C314.	(Renal glycosuria) or (renal diabetes)
+C3500	Bronzed diabetes
+Cyu20	[X]Other specified diabetes mellitus
+Cyu21	[X]Malnutrition-related diabetes mellitus with other specified complications
+Cyu22	[X]Malnutrition-related diabetes mellitus with unspecified complications
+K081.	NDI - Nephrogenic diabetes insipidus
+K0810	Acquired nephrogenic diabetes insipidus
+K0811	Congenital nephrogenic diabetes insipidus
+L1807	Pre-existing malnutrition-related diabetes mellitus
+L1808	Diabetes mellitus arising in pregnancy
+L1809	Diabetes mellitus arising in pregnancy
+PKyP.	DIDMOAD - Diabetes insipidus,diabetes mellitus, optic atrophy and deafness
+Q440.	Infant of a diabetic mother syndrome
+Q441.	Neonatal diabetes mellitus
+Q44B.	IGDM - Infant of gestational diabetic mother
+Q44y1	Transitory metabolic disturbance in infant of pre-diabetic mother
+X008t	DIDMOAD - Diabetes insipidus,diabetes mellitus, optic atrophy and deafness
+X30Hd	Renal diabetes
+X30Jo	Congenital nephrogenic diabetes insipidus
+X30Jp	Acquired nephrogenic diabetes insipidus
+X40J0	Pancreatic endocrine tumour
+X40J1	Disorder of glucose regulation
+X40J2	Hyperglycaemia
+X40J3	Hyperglycaemic disorder
+X40J7	Jamaica type diabetes
+X40J8	Malnutrition-related diabetes mellitus - fibrocalculous
+X40J9	Malnutrition-related diabetes mellitus - protein-deficient
+X40JA	Secondary diabetes mellitus
+X40JB	Secondary pancreatic diabetes mellitus
+X40JC	Secondary endocrine diabetes mellitus
+X40JE	Metabolic syndrome
+X40JF	Transitory neonatal diabetes mellitus
+X40JG	Genetic syndromes of diabetes mellitus
+X40JI	Diabetes mellitus autosomal dominant
+X40JJ	Diabetes mellitus autosomal dominant type 2
+X40JK	Diabetes mellitus, Addison's disease and myxoedema
+X40JL	Hereditary benign acanthosis nigricans with insulin resistance
+X40JM	Berardinelli's syndrome
+X40JN	Lipodystrophy, partial, with Reiger anomaly, short stature, and insulinopenic diabetes mellitus
+X40JO	Berardinelli's syndrome
+X40JP	Acrorenal field defect, ectodermal dysplasia, and lipoatrophic diabetes
+X40JQ	Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus
+X40JR	Herrmann syndrome
+X40JS	Hyperproinsulinemia
+X40JT	Bangstad syndrome
+X40JU	Epiphyseal dysplasia, multiple, with early onset diabetes mellitus
+X40JV	Hypogonadism, diabetes mellitus, alopecia ,mental retardation and electrocardiographic abnormalities
+X40JW	Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness
+X40JX	Pineal hyperplasia, insulin-resistant diabetes mellitus and somatic abnormalities
+X40JY	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhoea
+X40JZ	Ballinger-Wallace syndrome
+X40Jm	Diabetes mellitus arising in pregnancy
+X40LD	Familial central diabetes insipidus
+X50Hb	Hypohidrosis-diabetes insipidus syndrome
+X789v	Epiphyseal dysplasia, multiple, with early onset diabetes mellitus
+XE10Y	Central diabetes insipidus
+XE1g5	Diabetes - perinatal
+XSETH	Maturity onset diabetes mellitus in young
+XSETI	Fibrocalculous pancreatic diabetes
+XSETK	Drug-induced diabetes mellitus
+XSETe	Lipoatrophic diabetes
+XSETp	DM due to insulin receptor ab
+Xa08W	IGDM - Infant of gestational diabetic mother
+Xa08a	Small for gestation neonatal diabetes mellitus
+Xa2hB	Dietary advice for gestational diabetes
+Xa9FG	Postpancreatectomy diabetes mellitus
+XaJUI	DM induced by non-steroid drug
+XaJlL	Secondary pancreatic diabetes mellitus without complication
+XaJlM	Diabetes mellitus induced by non-steroid drugs without complication
+XaJlQ	Lipoatrophic diabetes mellitus without complication
+XaJlR	Secondary diabetes mellitus without complication
+XaMzI	Cystic fibrosis related diabetes mellitus
+XaOPl	[V]Personal history of gestational diabetes mellitus
+XaOPt	Maternally inherited diabetes mellitus
+XaXM0	Gestational diabetes information leaflet given
+XaXZB	H/O: autosomal dominant diabetes mellitus
+XaXZG	H/O: secondary diabetes mellitus
+XaXZU	H/O: gestational diabetes mellitus
+XaYmK	Gestational diabetes mellitus annual review
+XacoB	Maturity onset diabetes of the young type 5
+ZV13F	[V]Personal history of gestational diabetes mellitus

@@ -1,0 +1,16 @@
+Code	Description
+E10	Type 1 diabetes
+E11	Type 2 diabetes
+E12	Malnutrition-related diabetes
+E13	Other specified diabetes
+E14	Unspecified diabetes
+G590	Diabetic mononeuropathy
+G632	Diabetic polyneuropathy
+H280	Diabetic cataract
+H360	Diabetic retinopathy
+M142	Diabetic arthropathy
+N083	Glomerular disorders in diabetes mellitus
+O24	Diabetes mellitus in pregnancy
+P702	Neonatal diabetes mellitus
+T383	Poisoning by insulin and oral hypoglycaemic [antidiabetic] drugs
+Y423	Insulin and oral hypoglycaemic [antidiabetic] drugs
