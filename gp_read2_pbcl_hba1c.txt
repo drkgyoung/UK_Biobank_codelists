@@ -1,0 +1,3 @@
+Code	Description
+42W4.	HbA1c level (DCCT aligned)
+42W5.	HbA1c level (IFCC aligned)

@@ -1,0 +1,11 @@
+Code	Description
+f72..	GLUCAGON
+f721.	GLUCAGON LILLY 1.09mg injection
+f722.	*GLUCAGON NOVO 1mg injection
+f723.	*GLUCAGON NOVO 10mg injection
+f724.	GLUCAGEN KIT 1mg(1iu) injection
+f725.	GLUCAGEN 1mg(1iu) injection powder+diluent
+f72w.	GLUCAGON 1mg(1iu) injection powder+diluent
+f72x.	GLUCAGON 10mg(10iu) injection powder+diluent
+f72y.	GLUCAGON 1mg(1iu) injection powder+diluent+syringe
+f72z.	GLUCAGON 1mg(1unit) injection (pdr for recon)

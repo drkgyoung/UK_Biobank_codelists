@@ -1,0 +1,62 @@
+Code	Description
+puh..	BLOOD GLUCOSE TESTING STRIPS
+puh1.	BM TEST-1-44 blood glucose testing strip x50
+puh2.	DEXTROSTIX blood glucose testing strip x50
+puh3.	GLUCOSTIX blood glucose testing strip x50
+puh4.	HYPOGUARD GA blood glucose testing strip x50
+puh5.	EXACTECH blood glucose testing strip x50
+puh6.	HYPOGUARD SUPREME blood glucose testing strip x50
+puh7.	BM ACCUTEST blood glucose testing strip x50
+puh8.	GLUCOSTIX blood glucose testing strip x25
+puh9.	ONE TOUCH blood glucose testing strip
+puha.	FINETOUCH blood glucose testing tip
+puhA.	BM-TEST-GP blood glucose testing strip x100
+puhb.	GLUCOMEN GM blood glucose testing strip
+puhB.	BM-HOPITEST blood glucose testing strip x50
+puhc.	CLEVER CHEK blood glucose testing strip
+puhC.	MEDI-TEST GLYCAEMIE P blood glucose testing strip
+puhd.	TRUETEST blood glucose testing strip
+puhD.	MEDI-TEST GLYCAEMIE F blood glucose testing strip
+puhe.	ACCU-CHEK MOBILE blood glucose testing cassette
+puhE.	MEDI-TEST GLYCAEMIE C blood glucose testing strip
+puhf.	BIOCARE GLUCOSE VT blood glucose testing strip
+puhF.	MEDISENSE G2 blood glucose testing strip
+puhg.	SMARTSTRIP blood glucose testing strip
+puhG.	GLUCOTIDE blood glucose testing strip
+puhh.	GLUCOMEN SENSOR blood glucose testing strip
+puhH.	GLUCOMETER ESPRIT blood glucose test sensor disc
+puhi.	GLUCOTREND PLUS blood glucose testing strips
+puhI.	GLUCOTREND blood glucose testing strips
+puhj.	ADVANTAGE II blood glucose testing strip
+puhJ.	POCKETSCAN blood glucose testing strip
+puhk.	PRESTIGE SMART SYSTEM blood glucose testing strip
+puhK.	MEDISENSE OPTIUM blood glucose testing electrode
+puhl.	ACTIVE blood glucose testing strip
+puhL.	HYPOGUARD SUPREME SPECTRUM blood glucose testing strip x50
+puhm.	MEDISENSE SOFT-SENSE blood glucose testing strip
+puhM.	MEDISENSE OPTIUM PLUS blood glucose testing electrode
+puhn.	GLUCOFLEX-R blood glucose testing strip
+puhN.	ON-CALL PLUS blood glucose testing strip
+puhO.	BREEZE 2 blood glucose test sensor disc
+puhp.	ONE TOUCH ULTRA blood glucose testing strip
+puhP.	BETACHEK G5 blood glucose testing strip
+puhq.	FREESTYLE blood glucose testing strip
+puhQ.	FREESTYLE LITE blood glucose testing strip
+puhr.	COMPACT blood glucose testing strip
+puhR.	BIONIME RIGHTEST GS300 blood glucose testing strip
+puhs.	ASCENSIA AUTODISC blood glucose test sensor disc
+puhS.	MICRODOT blood glucose testing strip
+puht.	ASCENSIA MICROFILL blood glucose testing strip
+puhT.	GLUCOMEN LX SENSOR blood glucose testing strip
+puhu.	TRUETRACK SMART SYSTEM blood glucose testing strip
+puhU.	ONE TOUCH VITA blood glucose testing strip
+puhv.	SENOVA blood glucose testing strip
+puhV.	WAVESENSE JAZZ blood glucose testing strip
+puhw.	SENSOCARD blood glucose testing strip
+puhW.	BETACHEK VISUAL blood glucose testing strip
+puhx.	AVIVA blood glucose testing strip
+puhX.	COSYLAB S7 blood glucose testing strip
+puhy.	GLUCOMEN VISIO SENSOR blood glucose testing strip
+puhY.	CARESENS N blood glucose testing strip
+puhz.	ON-CALL NOW blood glucose testing strip
+puhZ.	PURA blood glucose testing strip

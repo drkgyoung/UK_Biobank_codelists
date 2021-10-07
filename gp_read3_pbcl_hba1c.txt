@@ -1,0 +1,3 @@
+Code	Description
+XaERp	HbA1c level (DCCT aligned)
+XaPbt	HbA1c level (IFCC aligned)
