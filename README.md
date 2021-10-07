@@ -23,7 +23,7 @@
 
 ### Implementation
 #### Clinical data
-Clinical data from UK Biobank (diagnoses, test results etc.) are provided in the gp_clinical file, which contains both read_2 and read_3 fields
+Clinical data from UK Biobank (diagnoses, test results etc.) are provided in the gp_clinical file, which contains both read_2 and read_3 fields.
   * **gp\_read2\_\*** files are lists of Read 2 codes to use with the read_2 field
   * **gp\_read3\_\*** files are Read 3 codes to use with the read_3 field. Matches must be exact and case sensitive. Both fields should be used to identify individuals with a specific condition/type of test etc.
   * HbA1c test searches only: the numeric result of the test will either be in the value1 field gp_clinical, or value1 will contain "OPR003" and the result will be in value2. We ignore any units suggested by the Read code description or in the value3 field and assume all values <=20 are in % and all values >20 are in mmol/mol. Values <3.9 and >195 are excluded. If a patient has mutiple valid reading on the same day, results are averaged by day.
