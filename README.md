@@ -8,7 +8,6 @@
 * ICD codes do not contain lowercase letters, so case sensitivity is not required
 
 \
-\
 
 ## GP (primary care) codelists
 ### Codelist contents
