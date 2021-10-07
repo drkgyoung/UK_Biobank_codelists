@@ -6,8 +6,10 @@
 ### Implementation
 * Use codes as prefixes e.g. E10 is listed as a diabetes ICD10 code, so any code beginning with E10 is a diabetes ICD10 code
 * ICD codes do not contain lowercase letters, so case sensitivity is not required
+
 \
 \
+
 ## GP (primary care) codelists
 ### Codelist contents
 * "\_diabetes": any type of diabetes mellitus
