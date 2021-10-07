@@ -2,7 +2,7 @@
 
 ## HES codelists
 ### Codelist contents
-* hes_icd9_diabetes and hes_icd10_diabetes are codes for any type of diabetes mellitus
+* **hes_icd9_diabetes** and **hes_icd10_diabetes** are codes for any type of diabetes mellitus
 ### Implementation
 * Use codes as prefixes e.g. E10 is listed as a diabetes ICD10 code, so any code beginning with E10 is a diabetes ICD10 code
 * ICD codes do not contain lowercase letters, so case sensitivity is not required
@@ -11,7 +11,7 @@
 
 ## GP (primary care) codelists
 ### Codelist contents
-* "\_diabetes": any type of diabetes mellitus
+* **gp_\*_diabetes**: any type of diabetes mellitus
 * "\_diabetes_exclusion": types of diabetes mellitus which are not Type 1 or Type 2 diabetes
 * "\_hba1c": HbA1c tests
 * "\_pbcl_hba1c": HbA1c tests from the Pathology Bounded Code List (PBCL). TThe PBCL defines codes used in electronic reporting from pathology labs to GPs. Patient biomarker measurements with these codes may be more reliable than measurements with non-PBCL codes, as the latter are more likely to have been inputted manually by a GP.
