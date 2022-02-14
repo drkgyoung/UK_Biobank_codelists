@@ -14,7 +14,7 @@
 
 ## GP (primary care) codelists
 ### Codelist contents
-* **gp\_\*\_diabetes**: codes for Type 1 diabetes, Type 2 diabetes, or unspecified diabetes mellitus
+* **gp\_\*\_diabetes**: codes for Type 1 diabetes, Type 2 diabetes, or unspecified diabetes mellitus, including processes of care and diabetes-specific complications
 * **gp\_\*\_diabetes_exclusion**: types of diabetes mellitus which are not Type 1 or Type 2 diabetes
 * **gp\_\*\_hba1c**: HbA1c tests. See below note on implementation.
 * **gp\_\*\_pbcl_hba1c**: HbA1c tests from the Pathology Bounded Code List (PBCL). The PBCL defines codes used in electronic reporting from pathology labs to GPs. Patient biomarker measurements with these codes may be more reliable than measurements with non-PBCL codes, as the latter are more likely to have been inputted manually by a GP. General ‘glycosylated haemoglobin’ codes or HbA1 codes were excluded. See below note on implementation.
