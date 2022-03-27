@@ -44,7 +44,7 @@ Prescription data from UK Biobank are provided in the gp_scripts file. This cont
 
 ## Treatment/medication codelists for variable 20003 (verbal interview)
 ### Codelist contents
-* **20003_diabetes_meds**: glucose-lowering medications (including insulin) plus glucagon. Note that 'actos ' includes a final space to prevent matching to medications containing lactose etc.
+* **20003_diabetes_meds**: glucose-lowering medications (including insulin) plus glucagon.
 * **20003_blood_pressure_meds**: blood pressure medications (classes included: ACE-inhibitors, angiotensin receptor blockers, beta-blockers, calcium channel inhibitors, thiazide-like diuretics).
 
 
