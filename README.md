@@ -19,7 +19,7 @@
 * **gp\_\*\_hba1c**: HbA1c tests. See below note on implementation.
 * **gp\_\*\_pbcl_hba1c**: HbA1c tests from the Pathology Bounded Code List (PBCL). The PBCL defines codes used in electronic reporting from pathology labs to GPs. Patient biomarker measurements with these codes may be more reliable than measurements with non-PBCL codes, as the latter are more likely to have been inputted manually by a GP. General ‘glycosylated haemoglobin’ codes or HbA1 codes were excluded. See below note on implementation.
 * **gp\_\*\_hyperglycaemia**: codes for hyperglycaemia (does not include glucose blood/urine tests)
-* **gp\_\*\_diabetes_meds**: glucose-lowering medications (including insulin). Note that 'actos ' includes a final space to prevent matching to medications containing lactose etc.
+* **gp\_\*\_diabetes_meds**: glucose-lowering medications (including insulin) plus glucagon. Note that 'actos ' includes a final space to prevent matching to medications containing lactose etc.
 * **gp\_\*\_blood_pressure_meds**: blood pressure medications (classes included: ACE-inhibitors, angiotensin receptor blockers, beta-blockers, calcium channel inhibitors, thiazide-like diuretics). Note that 'istin ' and 'univer ' includes a final space to prevent matching to medications containing histine, universal etc.
 * **gp\_\*\_glucagon**: glucagon
 * **gp_\*\_test_strips**: glucose testing strips. See below note on implementation.
@@ -36,5 +36,16 @@ Clinical data from UK Biobank (diagnoses, test results etc.) are provided in the
 #### Prescriptions
 Prescription data from UK Biobank are provided in the gp_scripts file. This contains read_2, bnf_code, dmd_code and drug_name fields; none are fully populated. We search both the read_2 and drug_name fields as combined these provide good coverage.
   * **gp\_read2drugs\_\*** files are Read 2 codes to use with the read_2 field. Matches must be exact and case sensitive.
-  * **gp\_drugname\_\*** files are full or partial names of medications to use with the drug_name field. These should be used in non-case sensitive wildcard searches which allow any number of characrters before or after the name.
+  * **gp\_drugname\_\*** files are full or partial names of medications to use with the drug_name field. These should be used in non-case sensitive wildcard searches which allow any number of characters before or after the name.
   * Glucose test strip searches only: results containing 'lancet' (again, searched for as a non-case sensitive wildcard) should be excluded from the results
+  * Blood pressure medication searches only: results containing 'drops' should be excluded to remove eye and nose drops. Results containing 'colistin ' (picked by 'istin ' keyword) should be removed.
+
+&nbsp;
+
+## Treatment/medication codelists for variable 20003 (verbal interview)
+### Codelist contents
+* **20003_diabetes_meds**: glucose-lowering medications (including insulin) plus glucagon. Note that 'actos ' includes a final space to prevent matching to medications containing lactose etc.
+* **20003_blood_pressure_meds**: blood pressure medications (classes included: ACE-inhibitors, angiotensin receptor blockers, beta-blockers, calcium channel inhibitors, thiazide-like diuretics).
+
+
+
