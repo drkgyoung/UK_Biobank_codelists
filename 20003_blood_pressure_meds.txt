@@ -1,0 +1,376 @@
+Code	Description	Class1	Class2
+1140851332	centyl 2.5mg tablet	thiazide_diuretic	
+1140851336	urizide 5mg tablet	thiazide_diuretic	
+1140851338	enduron 5mg tablet	thiazide_diuretic	
+1140851362	esidrex k tablet	thiazide_diuretic	
+1140851364	hygroton k tablet combination pack	thiazide_diuretic	
+1140851368	navidrex-k tablet	thiazide_diuretic	
+1140851430	synuretic tablet	thiazide_diuretic	
+1140851432	hypertane-50 tablet	thiazide_diuretic	
+1140851436	vasetic co-amilozide 5/50mg tablet	thiazide_diuretic	
+1140851480	slow-pren 160mg m/r tablet	beta_blocker	
+1140851484	paritane 20mg tablet	beta_blocker	
+1140851492	betadren 5mg tablet	beta_blocker	
+1140851508	spiroprop tablet	beta_blocker	
+1140851522	metoros 95mg tablet	beta_blocker	
+1140851556	bedranol 10mg tablet	beta_blocker	
+1140851576	laracor 20mg tablet	beta_blocker	
+1140851660	serpasil-esidrex tablet	thiazide_diuretic	
+1140851690	acezide 50mg tablets x56	ace_inhibitor	thiazide_diuretic
+1140851692	capozide 50mg tablets x28	ace_inhibitor	thiazide_diuretic
+1140851730	calcicard 60mg tablet	calcium_channel_blocker	
+1140851790	vasad 5mg capsule	calcium_channel_blocker	
+1140851794	calcipine 5mg capsule	calcium_channel_blocker	
+1140851798	prenylamine	calcium_channel_blocker	
+1140851800	synadrin 60mg tablet	calcium_channel_blocker	
+1140860172	totamol 25mg tablet	beta_blocker	
+1140860180	arbralene 50mg tablet	beta_blocker	
+1140860192	nadolol	beta_blocker	
+1140860194	corgard 40mg tablet	beta_blocker	
+1140860212	apsolox 20mg tablet	beta_blocker	
+1140860220	slow-trasicor 160mg m/r tablet	beta_blocker	
+1140860222	trasicor 20mg tablet	beta_blocker	
+1140860230	oxyprenix sr 160mg m/r tablet	beta_blocker	
+1140860232	kerlone 20mg tablet	beta_blocker	
+1140860244	labrocol 100mg tablet	beta_blocker	
+1140860250	trandate 50mg tablet	beta_blocker	
+1140860266	betaloc 50mg tablet	beta_blocker	
+1140860274	lopresor 50mg tablet	beta_blocker	
+1140860278	mepranix 50mg tablet	beta_blocker	
+1140860292	pindolol	beta_blocker	
+1140860294	visken 5mg tablet	beta_blocker	
+1140860304	beta-cardone 40mg tablet	beta_blocker	
+1140860308	metoprolol tartrate+chlorthalidone 100mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860312	nadolol+bendrofluazide 40mg/5mg tablet	beta_blocker	thiazide_diuretic
+1140860314	secadrex tablet	beta_blocker	thiazide_diuretic
+1140860316	nadolol+bendrofluazide 80mg/5mg tablet	beta_blocker	thiazide_diuretic
+1140860318	sotazide tablet	beta_blocker	thiazide_diuretic
+1140860320	penbutolol sulphate+frusemide 40mg/20mg tablet	beta_blocker	
+1140860322	pindolol+clopamide 10mg/5mg tablet	beta_blocker	thiazide_diuretic
+1140860324	tenoret 50 tablet	beta_blocker	thiazide_diuretic
+1140860328	tenoretic tablet	beta_blocker	thiazide_diuretic
+1140860330	tolerzide tablet	beta_blocker	thiazide_diuretic
+1140860332	sotalol hydrochloride+hydrochlorothiazide 80mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860334	trasidrex tablet	beta_blocker	thiazide_diuretic
+1140860336	timolol maleate+co-amilozide 10mg/2.5mg/25mg tablet	beta_blocker	thiazide_diuretic
+1140860338	viskaldix tablet	beta_blocker	thiazide_diuretic
+1140860340	timolol maleate+bendrofluazide 10mg/2.5mg tablet	beta_blocker	thiazide_diuretic
+1140860342	timolol maleate+bendrofluazide 20mg/5mg tablet	beta_blocker	thiazide_diuretic
+1140860348	atenixco 50mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860352	tenchlor 50mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860356	beta-adalat capsule	beta_blocker	calcium_channel_blocker
+1140860358	tenif capsule	beta_blocker	calcium_channel_blocker
+1140860362	sotacor 80mg tablet	beta_blocker	
+1140860380	betim 10mg tablet	beta_blocker	
+1140860382	blocadren 10mg tablet	beta_blocker	
+1140860386	co-betaloc tablet	beta_blocker	thiazide_diuretic
+1140860390	corgaretic 40mg tablet	beta_blocker	thiazide_diuretic
+1140860394	inderetic capsule	beta_blocker	thiazide_diuretic
+1140860396	inderex capsule	beta_blocker	thiazide_diuretic
+1140860398	kalten capsule	beta_blocker	thiazide_diuretic
+1140860400	lasipressin tablet	beta_blocker	
+1140860402	lopresoretic tablet	beta_blocker	thiazide_diuretic
+1140860404	metoprolol tartrate+hydrochlorothiazide 100mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860406	moducren tablet	beta_blocker	thiazide_diuretic
+1140860410	prestim tablet	beta_blocker	thiazide_diuretic
+1140860418	propranolol hydrochloride+bendrofluazide 80mg/2.5mg capsule	beta_blocker	thiazide_diuretic
+1140860422	acebutolol+hydrochlorothiazide 200mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140860426	atenolol+nifedipine 50mg/20mg m/r capsule	beta_blocker	calcium_channel_blocker
+1140860434	monocor 5mg tablet	beta_blocker	
+1140860492	emcor 10mg tablet	beta_blocker	
+1140860498	celectol 200mg tablet	beta_blocker	
+1140860562	methyldopa+hydrochlorothiazide 250mg/15mg tablet	thiazide_diuretic	
+1140860696	lisinopril	ace_inhibitor	
+1140860706	carace 2.5mg tablet	ace_inhibitor	thiazide_diuretic
+1140860714	zestril 2.5mg tablet	ace_inhibitor	
+1140860728	quinapril	ace_inhibitor	
+1140860736	accuretic tablet	ace_inhibitor	thiazide_diuretic
+1140860738	quinalapril+hydrochlorothiazide 10mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1140860750	captopril	ace_inhibitor	
+1140860752	acepril 12.5mg tablet	ace_inhibitor	
+1140860758	capoten 12.5mg tablet	ace_inhibitor	
+1140860764	captopril+hydrochlorothiazide 25mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1140860776	innovace 2.5mg tablet	ace_inhibitor	
+1140860784	innozide tablet	ace_inhibitor	thiazide_diuretic
+1140860790	enalapril maleate+hydrochlorothiazide 20mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1140860802	coversyl 2mg tablet	ace_inhibitor	
+1140860806	ramipril	ace_inhibitor	
+1140860878	staril 10mg tablet	ace_inhibitor	
+1140860882	cilazapril	ace_inhibitor	
+1140860892	vascace 250micrograms tablet	ace_inhibitor	
+1140860904	trandolapril	ace_inhibitor	
+1140860912	gopten 500micrograms capsule	ace_inhibitor	
+1140860918	odrik 500micrograms capsule	ace_inhibitor	
+1140861088	nifedipine	calcium_channel_blocker	
+1140861090	adalat 5mg capsule	calcium_channel_blocker	
+1140861106	calcilat 10mg capsule	calcium_channel_blocker	
+1140861110	angiopine 5mg capsule	calcium_channel_blocker	
+1140861114	nifensar xl 20mg m/r tablet	calcium_channel_blocker	
+1140861120	coracten sr 10mg m/r capsule	calcium_channel_blocker	
+1140861128	tildiem 60mg m/r tablet	calcium_channel_blocker	
+1140861130	britiazim 60mg m/r tablet	calcium_channel_blocker	
+1140861136	angiozem 60mg m/r tablet	calcium_channel_blocker	
+1140861138	adizem-60 m/r tablet	calcium_channel_blocker	
+1140861166	dilzem sr 60mg long acting m/r capsule	calcium_channel_blocker	
+1140861176	cardene 20mg capsule	calcium_channel_blocker	
+1140861190	isradipine	calcium_channel_blocker	
+1140861194	prescal 2.5mg tablet	calcium_channel_blocker	
+1140861202	istin 5mg tablet	calcium_channel_blocker	
+1140861276	lacidipine	calcium_channel_blocker	
+1140861282	motens 2mg tablet	calcium_channel_blocker	
+1140861456	corwin 200mg tablet	beta_blocker	
+1140862728	fabahistin 50mg tablet	calcium_channel_blocker	
+1140863724	cartrol 10mg tablet	beta_blocker	
+1140864176	monozide 10 tablet	beta_blocker	thiazide_diuretic
+1140864202	chlorthalidone tablet+potassium m/r tablet 25mg/6.7mmol pack	thiazide_diuretic	
+1140864410	antipressan 25mg tablet	beta_blocker	
+1140864618	zestoretic 10 tablet	ace_inhibitor	thiazide_diuretic
+1140864910	carace 10 plus tablet	ace_inhibitor	thiazide_diuretic
+1140864950	bisoprolol fumarate+hydrochlorothiazide 10mg/6.25mg tablet	beta_blocker	thiazide_diuretic
+1140864952	lisinopril+hydrochlorothiazide 10mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1140866072	hydroflumethiazide	thiazide_diuretic	
+1140866074	hydrenox 50mg tablet	thiazide_diuretic	
+1140866078	indapamide	thiazide_diuretic	
+1140866090	methyclothiazide	thiazide_diuretic	
+1140866092	metolazone	thiazide_diuretic	
+1140866094	metenix-5 tablet	thiazide_diuretic	
+1140866096	xuret 500micrograms tablet	thiazide_diuretic	
+1140866102	polythiazide	thiazide_diuretic	
+1140866104	nephril 1mg tablet	thiazide_diuretic	
+1140866122	bendrofluazide	thiazide_diuretic	
+1140866128	aprinox 2.5mg tablet	thiazide_diuretic	
+1140866132	berkozide 2.5mg tablet	thiazide_diuretic	
+1140866136	neo-naclex 5mg tablet	thiazide_diuretic	
+1140866138	chlorothiazide	thiazide_diuretic	
+1140866140	saluric 500mg tablet	thiazide_diuretic	
+1140866144	chlorthalidone	thiazide_diuretic	
+1140866146	hygroton 50mg tablet	thiazide_diuretic	
+1140866156	cyclopenthiazide	thiazide_diuretic	
+1140866158	navidrex 500mcg tablet	thiazide_diuretic	
+1140866162	hydrochlorothiazide	thiazide_diuretic	
+1140866164	esidrex 25mg tablet	thiazide_diuretic	
+1140866168	hydrosaluric 25mg tablet	thiazide_diuretic	
+1140866324	triamterene+benzthiazide 50mg/25mg capsule	thiazide_diuretic	
+1140866328	triam-co tablet	thiazide_diuretic	
+1140866330	triamterene+chlorthalidone 50mg/50mg tablet	thiazide_diuretic	
+1140866340	delvas tablet	thiazide_diuretic	
+1140866352	navispare tablet	thiazide_diuretic	
+1140866354	amilmaxco 5/50 tablet	thiazide_diuretic	
+1140866360	triamaxco tablet	thiazide_diuretic	
+1140866396	aldactide 25 tablet	thiazide_diuretic	
+1140866400	amil-co tablet	thiazide_diuretic	
+1140866402	dyazide tablet	thiazide_diuretic	
+1140866404	dytide capsule	thiazide_diuretic	
+1140866410	kalspare tablet	thiazide_diuretic	
+1140866416	moduret 25 tablet	thiazide_diuretic	
+1140866420	moduretic tablet	thiazide_diuretic	
+1140866422	amiloride hcl+cyclopenthiazide 2.5mg/250micrograms tablet	thiazide_diuretic	
+1140866440	centyl k m/r tablet	thiazide_diuretic	
+1140866446	neo-naclex k m/r tablet	thiazide_diuretic	
+1140866450	bendrofluazide+potassium 2.5mg/7.7mmol m/r tablet	thiazide_diuretic	
+1140866460	half securon sr 120mg m/r tablet	calcium_channel_blocker	
+1140866466	securon 40mg tablet	calcium_channel_blocker	
+1140866484	geangin 40mg tablet	calcium_channel_blocker	
+1140866546	berkatens 40mg tablet	calcium_channel_blocker	
+1140866554	cordilox 40mg tablet	calcium_channel_blocker	
+1140866704	angilol 10mg tablet	beta_blocker	
+1140866712	cardinol 10mg tablet	beta_blocker	
+1140866724	acebutolol	beta_blocker	
+1140866726	sectral 100mg capsule	beta_blocker	
+1140866738	atenolol	beta_blocker	
+1140866756	tenormin 25 tablet	beta_blocker	
+1140866758	vasaten 50mg tablet	beta_blocker	
+1140866764	apsolol 10mg tablet	beta_blocker	
+1140866766	propanix 10mg tablet	beta_blocker	
+1140866778	betadur cr 160mg m/r capsule	beta_blocker	
+1140866782	beta-prograne 160mg m/r capsule	beta_blocker	
+1140866784	berkolol 10mg tablet	beta_blocker	
+1140866798	half-betadur cr 80mg m/r capsule	beta_blocker	
+1140866800	half-inderal la 80mg m/r capsule	beta_blocker	
+1140866802	half beta-prograne 80mg m/r capsule	beta_blocker	
+1140866804	inderal 10mg tablet	beta_blocker	
+1140868036	parmid 10mg tablet	calcium_channel_blocker	
+1140872472	nimotop 30mg tablet	calcium_channel_blocker	
+1140872568	nimodipine	calcium_channel_blocker	
+1140875808	metipranolol	beta_blocker	
+1140879758	betaxolol	beta_blocker	
+1140879760	bisoprolol	beta_blocker	
+1140879762	celiprolol	beta_blocker	
+1140879802	amlodipine	calcium_channel_blocker	
+1140879806	diltiazem	calcium_channel_blocker	
+1140879810	nicardipine	calcium_channel_blocker	
+1140879818	metoprolol	beta_blocker	
+1140879822	carteolol	beta_blocker	
+1140879824	labetalol	beta_blocker	
+1140879830	oxprenolol	beta_blocker	
+1140879834	penbutolol	beta_blocker	
+1140879842	propranolol	beta_blocker	
+1140879854	sotalol	beta_blocker	
+1140879866	timolol	beta_blocker	
+1140881692	univer 120mg m/r capsule	calcium_channel_blocker	
+1140881702	adalate 10mg capsule	calcium_channel_blocker	
+1140881706	accupro 5mg tablet	ace_inhibitor	
+1140881712	renitec 5mg tablet	ace_inhibitor	
+1140881714	capozide tablet	ace_inhibitor	thiazide_diuretic
+1140881716	acezide tablet	ace_inhibitor	thiazide_diuretic
+1140881722	avlocardyl retard 160mg m/r capsule	beta_blocker	
+1140883554	xamoterol	beta_blocker	
+1140888510	verapamil	calcium_channel_blocker	
+1140888552	enalapril	ace_inhibitor	
+1140888556	fosinopril	ace_inhibitor	
+1140888560	perindopril	ace_inhibitor	
+1140888646	felodipine	calcium_channel_blocker	
+1140888918	neo-bendromax 2.5mg tablet	thiazide_diuretic	
+1140888922	nindaxa 2.5mg tablet	thiazide_diuretic	
+1140909368	carvedilol	beta_blocker	
+1140909706	chlortalidone	thiazide_diuretic	
+1140910442	bzt - bendrofluazide	thiazide_diuretic	
+1140910614	prindolol	beta_blocker	
+1140911088	nifelease 20mg m/r tablet	calcium_channel_blocker	
+1140911698	slozem 120mg m/r capsule	calcium_channel_blocker	
+1140916342	beta-blocker	beta_blocker	
+1140916356	losartan	angiotension_receptor_blocker	
+1140916362	cozaar half strength 25mg tablet	angiotension_receptor_blocker	
+1140916628	totaretic 50mg/12.5mg tablet	beta_blocker	thiazide_diuretic
+1140916730	sloprolol 80mg m/r capsule	beta_blocker	
+1140916868	probeta la 160mg m/r capsule	beta_blocker	
+1140916870	natramid 2.5mg tablet	thiazide_diuretic	
+1140916930	calanif 5mg capsule	calcium_channel_blocker	
+1140917068	opumide 2.5mg tablet	thiazide_diuretic	
+1140917076	lopranol la 160mg m/r capsule	beta_blocker	
+1140917428	angitil sr 90 m/r capsule	calcium_channel_blocker	
+1140917452	metazem 60mg m/r tablet	calcium_channel_blocker	
+1140922324	zida-co 5mg/50mg tablet	thiazide_diuretic	
+1140922930	atenix 25mg tablet	beta_blocker	
+1140923272	co-triamterzide	thiazide_diuretic	
+1140923276	co-amilozide	thiazide_diuretic	
+1140923282	co-flumactone	thiazide_diuretic	
+1140923336	co-tenidone	beta_blocker	thiazide_diuretic
+1140923404	co-prenozide	beta_blocker	thiazide_diuretic
+1140923572	adipine mr 10 m/r tablet	calcium_channel_blocker	
+1140923618	kentiazem 60mg m/r capsule	calcium_channel_blocker	
+1140923712	moexipril	ace_inhibitor	
+1140923718	perdix 7.5mg tablet	ace_inhibitor	
+1140926188	unipine xl 30mg m/r tablet	calcium_channel_blocker	
+1140926778	diltiazem hcl+hydrochlorothiazide 150mg/12.5mg m/r capsule	calcium_channel_blocker	thiazide_diuretic
+1140926780	adizem-xl plus m/r capsule	calcium_channel_blocker	
+1140926954	hypaneze 40 tablet	calcium_channel_blocker	
+1140926966	nimodrel mr 10 m/r tablet	calcium_channel_blocker	
+1140927934	cardilate mr 10mg m/r tablet	calcium_channel_blocker	
+1140927940	tensipine mr 10 m/r tablet	calcium_channel_blocker	
+1140928212	plendil 2.5mg m/r tablet	calcium_channel_blocker	
+1140928226	nisoldipine	calcium_channel_blocker	
+1140928234	syscor mr 10mg m/r tablet	calcium_channel_blocker	
+1141145660	valsartan	angiotension_receptor_blocker	
+1141145668	diovan 40mg capsule	angiotension_receptor_blocker	
+1141145870	fortipine la40 m/r tablet	calcium_channel_blocker	
+1141146124	atenolol+chlorthalidone	beta_blocker	thiazide_diuretic
+1141146126	atenolol+bendrofluazide	beta_blocker	thiazide_diuretic
+1141146128	atenolol+co-amilozide	beta_blocker	thiazide_diuretic
+1141146184	tenben capsule	beta_blocker	thiazide_diuretic
+1141146378	natrilix sr 1.5mg m/r tablet	thiazide_diuretic	
+1141150328	ecopace 12.5mg tablet	ace_inhibitor	
+1141150500	slofedipine 20mg m/r tablet	calcium_channel_blocker	
+1141150538	nifedotard 20mr m/r tablet	calcium_channel_blocker	
+1141150560	kaplon 12.5mg tablet	ace_inhibitor	
+1141150926	verapress mr 240 m/r tablet	calcium_channel_blocker	
+1141151016	losartan potassium+hydrochlorothiazide 50mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141151018	cozaar-comp 50mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141151382	hypapril 12.5mg tablet	ace_inhibitor	
+1141151474	viazem xl 120mg m/r capsule	calcium_channel_blocker	
+1141152076	half propanix la 80mg m/r capsule	beta_blocker	
+1141152600	genalat retard 10mg m/r tablet	calcium_channel_blocker	
+1141152998	irbesartan	angiotension_receptor_blocker	
+1141153006	aprovel 75mg tablet	angiotension_receptor_blocker	
+1141153026	lercanidipine	calcium_channel_blocker	
+1141153032	zanidip 10mg tablet	calcium_channel_blocker	
+1141153316	tarka 2mg/180mg m/r capsule	ace_inhibitor	calcium_channel_blocker
+1141153328	trandolapril+verapamil hydrochloride	ace_inhibitor	calcium_channel_blocker
+1141153394	mibefradil	calcium_channel_blocker	
+1141153400	posicor 50mg tablet	calcium_channel_blocker	
+1141153454	calazem 60mg m/r tablet	calcium_channel_blocker	
+1141156656	optil 60mg m/r tablet	calcium_channel_blocker	
+1141156754	half propatard la 80mg m/r capsule	beta_blocker	
+1141156808	propatard la 160mg m/r capsule	beta_blocker	
+1141156836	candesartan cilexetil	angiotension_receptor_blocker	
+1141156846	amias 2mg tablet	angiotension_receptor_blocker	
+1141157136	dilcardia sr 60mg m/r capsule	calcium_channel_blocker	
+1141157140	nifedipress mr 10 m/r tablet	calcium_channel_blocker	
+1141162546	nivaten retard 10mg m/r tablet	calcium_channel_blocker	
+1141164148	imidapril hydrochloride	ace_inhibitor	
+1141164154	tanatril 5mg tablet	ace_inhibitor	
+1141164276	nebivolol	beta_blocker	
+1141164280	nebilet 5mg tablet	beta_blocker	
+1141165470	felodipine+ramipril	ace_inhibitor	calcium_channel_blocker
+1141165476	triapin mite 2.5mg/2.5mg tablet	ace_inhibitor	calcium_channel_blocker
+1141166006	telmisartan	angiotension_receptor_blocker	
+1141166752	coroday mr 20mg m/r tablet	calcium_channel_blocker	
+1141167758	hyteneze 12.5 tablet	ace_inhibitor	
+1141167822	tensopril 12.5mg tablet	ace_inhibitor	
+1141167832	zemtard 120 xl m/r capsule	calcium_channel_blocker	
+1141168498	eucardic 3.125 tablet	beta_blocker	
+1141169096	ethimil mr 240 m/r tablet	calcium_channel_blocker	
+1141169498	combitens m/r capsule	ace_inhibitor	beta_blocker
+1141169516	dorzolamide+timolol	beta_blocker	
+1141169710	vertab sr 240 m/r tablet	calcium_channel_blocker	
+1141169730	nifopress retard 20mg m/r tablet	calcium_channel_blocker	
+1141170544	capto-co 25mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1141170870	pralenal 2.5mg tablet	ace_inhibitor	
+1141171152	cardicor 1.25mg tablet	beta_blocker	
+1141171336	eprosartan	angiotension_receptor_blocker	
+1141171344	teveten 300mg tablet	angiotension_receptor_blocker	
+1141171804	zildil sr 60mg m/r capsule	calcium_channel_blocker	
+1141172492	micardis 20mg tablet	angiotension_receptor_blocker	
+1141172682	irbesartan+hydrochlorothiazide 150mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141172686	coaprovel 150mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141172742	syprol 5mg/5ml oral solution	beta_blocker	
+1141173766	calchan mr 10mg m/r tablet	calcium_channel_blocker	
+1141174684	zemret 180 xl m/r capsule	calcium_channel_blocker	
+1141175224	bi-carzem sr 60mg m/r capsule	calcium_channel_blocker	
+1141179974	cozaar 25mg tablet	angiotension_receptor_blocker	
+1141180238	horizem sr 90mg m/r capsule	calcium_channel_blocker	
+1141180592	perindopril+indapamide	ace_inhibitor	thiazide_diuretic
+1141180598	coversyl plus 4mg/1.25mg tablet	ace_inhibitor	thiazide_diuretic
+1141180772	triamterene+chlortalidone 50mg/50mg tablet	thiazide_diuretic	
+1141180778	atenolol+chlortalidone	beta_blocker	thiazide_diuretic
+1141181186	co-zidocapt 25mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1141182904	soloc 5mg tablet	beta_blocker	
+1141182968	tensomex 100mg tablet	beta_blocker	
+1141184324	bipranix 5mg tablet	beta_blocker	
+1141184390	zolvera 40mg/5ml oral solution	calcium_channel_blocker	
+1141184722	latanoprost+timolol	beta_blocker	
+1141185444	disogram sr 60mg m/r capsule	calcium_channel_blocker	
+1141187048	rapranol sr 80mg m/r capsule	beta_blocker	
+1141187056	ranvera mr 240mg m/r tablet	calcium_channel_blocker	
+1141187094	cabren 2.5mg m/r tablet	calcium_channel_blocker	
+1141187774	vera-til sr 120mg m/r tablet	calcium_channel_blocker	
+1141187780	vivacor 5mg tablet	beta_blocker	
+1141187788	telmisartan+hydrochlorothiazide 40mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141187790	micardisplus 40mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141187962	kentipine mr 10mg m/r tablet	calcium_channel_blocker	
+1141188152	felotens xl 5mg m/r tablet	calcium_channel_blocker	
+1141188408	tritace 1.25mg tablet	ace_inhibitor	
+1141188576	felogen xl 5mg m/r tablet	calcium_channel_blocker	
+1141188636	diuril 250mg/5ml oral suspension	thiazide_diuretic	
+1141188836	felendil xl 5mg m/r tablet	calcium_channel_blocker	
+1141188920	keloc sr 5mg m/r tablet	calcium_channel_blocker	
+1141188936	hypolar retard 10mg m/r tablet	calcium_channel_blocker	
+1141190160	vascalpha 5mg m/r tablet	calcium_channel_blocker	
+1141190548	valni 20 retard 20mg m/r tablet	calcium_channel_blocker	
+1141190934	caralpha 10/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1141193282	olmesartan	angiotension_receptor_blocker	
+1141193346	olmetec 10mg tablet	angiotension_receptor_blocker	
+1141194794	bendroflumethiazide	thiazide_diuretic	
+1141194800	bendroflumethiazide+potassium 2.5mg/7.7mmol m/r tablet	thiazide_diuretic	
+1141194804	nadolol+bendroflumethiazide 40mg/5mg tablet	beta_blocker	thiazide_diuretic
+1141194808	timolol maleate+bendroflumethiazide 10mg/2.5mg tablet	beta_blocker	thiazide_diuretic
+1141194810	atenolol+bendroflumethiazide	beta_blocker	thiazide_diuretic
+1141199858	cardioplen xl 5mg m/r tablet	calcium_channel_blocker	
+1141199940	lopace 2.5mg capsule	ace_inhibitor	
+1141200400	amlostin 5mg tablet	calcium_channel_blocker	
+1141200698	ranace 1.25mg capsule	ace_inhibitor	
+1141200726	lisicostad hct 10/12.5mg tablet	ace_inhibitor	thiazide_diuretic
+1141200782	neofel xl 5mg m/r tablet	calcium_channel_blocker	
+1141201038	valsartan+hydrochlorothiazide 80mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141201040	co-diovan 80mg/12.5mg tablet	angiotension_receptor_blocker	thiazide_diuretic
+1141201814	parmid xl 5mg m/r tablet	calcium_channel_blocker	

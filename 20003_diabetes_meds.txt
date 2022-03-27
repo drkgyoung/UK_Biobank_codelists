@@ -1,0 +1,58 @@
+Code	Description	Name	Drug substance	Class1	Class2
+1140857494	glibornuride	glibornuride	glibornuride	sulfonylurea	
+1140857496	glutril 25mg tablet	glutril	glibornuride	sulfonylurea	
+1140857500	glymidine	glymidine	glymidine	sulfonamide	
+1140857502	gondafon 500mg tablet	gondafon	glymidine	sulfonamide	
+1140857506	pramidex 500mg tablet	pramidex	tolbutamide	sulfonylurea	
+1140857584	acetohexamide	acetohexamide	acetohexamide	sulfonylurea	
+1140857586	dimelor 500mg tablet	dimelor	acetohexamide	sulfonylurea	
+1140857590	libanil 2.5mg tablet	libanil	glibenclamide	sulfonylurea	
+1140868902	acarbose	acarbose	acarbose	acarbose	
+1140868908	glucobay 50mg tablet	glucobay	acarbose	acarbose	
+1140874646	glipizide	glipizide	glipizide	sulfonylurea	
+1140874650	glibenese 5mg tablet	glibenese	glipizide	sulfonylurea	
+1140874652	minodiab 2.5mg tablet	minodiab	glipizide	sulfonylurea	
+1140874658	gliquidone	gliquidone	gliquidone	sulfonylurea	
+1140874660	glurenorm 30mg tablet	glurenorm	gliquidone	sulfonylurea	
+1140874664	tolazamide	tolazamide	tolazamide	sulfonylurea	
+1140874666	tolanase 100mg tablet	tolanase	tolazamide	sulfonylurea	
+1140874674	tolbutamide	tolbutamide	tolbutamide	sulfonylurea	
+1140874678	glyconon 500mg tablet	glyconon	tolbutamide	sulfonylurea	
+1140874680	rastinon 500mg tablet	rastinon	tolbutamide	sulfonylurea	
+1140874686	glucophage 500mg tablet	glucophage	metformin	metformin	
+1140874690	orabet 500mg tablet	orabet	tolbutamide	sulfonylurea	
+1140874706	chlorpropamide	chlorpropamide	chlorpropamide	sulfonylurea	
+1140874712	diabinese 100mg tablet	diabinese	chlorpropamide	sulfonylurea	
+1140874716	glymese 250mg tablet	glymese	chlorpropamide	sulfonylurea	
+1140874718	glibenclamide	glibenclamide	glibenclamide	sulfonylurea	
+1140874724	daonil 5mg tablet	daonil	glibenclamide	sulfonylurea	
+1140874726	semi-daonil 2.5mg tablet	daonil	glibenclamide	sulfonylurea	
+1140874728	euglucon 2.5mg tablet	euglucon	glibenclamide	sulfonylurea	
+1140874732	malix 2.5mg tablet	malix	glibenclamide	sulfonylurea	
+1140874736	diabetamide 2.5mg tablet	diabetamide	glibenclamide	sulfonylurea	
+1140874740	calabren 2.5mg tablet	calabren	glibenclamide	sulfonylurea	
+1140874744	gliclazide	gliclazide	gliclazide	sulfonylurea	
+1140874746	diamicron 80mg tablet	diamicron	gliclazide	sulfonylurea	
+1140874826	glucagon product	glucagon	glucagon	glucagon	
+1140883066	insulin product	insulin	insulin	insulin	
+1140884600	metformin	metformin	metformin	metformin	
+1140921964	glucamet 500 tablet	glucamet	metformin	metformin	
+1140923026	glucagen kit 1mg(1iu) injection	glucagen	glucagon	glucagon	
+1141152590	glimepiride	glimepiride	glimepiride	sulfonylurea	
+1141153254	troglitazone	troglitazone	troglitazone	TZD	
+1141153262	romozin 200mg tablet	romozin	troglitazone	TZD	
+1141156984	amaryl 1mg tablet	amaryl	glimepiride	sulfonylurea	
+1141157284	glipizide product	glipizide	glipizide	sulfonylurea	
+1141168660	repaglinide	repaglinide	repaglinide	meglitinide	
+1141168668	novonorm 0.5mg tablet	novonorm	repaglinide	meglitinide	
+1141169504	diaglyk 80mg tablet	diaglyk	gliclazide	sulfonylurea	
+1141171508	vivazide 80mg tablet	vivazide	gliclazide	sulfonylurea	
+1141171646	pioglitazone	pioglitazone	pioglitazone	TZD	
+1141171652	actos 15mg tablet	actos 	pioglitazone	TZD	
+1141173144	glucagen hypokit 1mg(1iu) injection	glucagen	glucagon	glucagon	
+1141173786	starlix 60mg tablet	starlix	nateglinide	meglitinide	
+1141173882	nateglinide	nateglinide	nateglinide	meglitinide	
+1141177600	rosiglitazone	rosiglitazone	rosiglitazone	TZD	
+1141177606	avandia 4mg tablet	avandia	rosiglitazone	TZD	
+1141189094	avandamet 1mg / 500mg tablet	avandamet	metformin and rosiglitazone	metformin	TZD
+1141189090	rosiglitazone 1mg / metformin 500mg tablet	rosiglitazone / metformin	metformin and rosiglitazone	metformin	TZD
