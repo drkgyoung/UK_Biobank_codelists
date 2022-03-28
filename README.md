@@ -5,6 +5,7 @@
 ## HES codelists
 ### Codelist contents
 * **hes_icd9_diabetes** and **hes_icd10_diabetes** are codes for any type of diabetes mellitus
+* **hes_icd9_hyperglycaemia** and **hes_icd10_hyperglycaemia** are codes for hyperglycaemia (ICD9 code 7902 is for 'abnormal glucose' but commonly used for hyperglycaemia)
 ### Implementation
 * Use codes as prefixes e.g. E10 is listed as a diabetes ICD10 code, so any code beginning with E10 is a diabetes ICD10 code
 * ICD codes do not contain lowercase letters, so case sensitive searching is not required
