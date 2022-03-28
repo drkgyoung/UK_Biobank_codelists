@@ -38,7 +38,7 @@ Prescription data from UK Biobank are provided in the gp_scripts file. This cont
   * **gp\_read2drugs\_\*** files are Read 2 codes to use with the read_2 field. Matches must be exact and case sensitive.
   * **gp\_drugname\_\*** files are full or partial names of medications to use with the drug_name field. These should be used in non-case sensitive wildcard searches which allow any number of characters before or after the name.
   * Glucose test strip searches only: results containing 'lancet' (again, searched for as a non-case sensitive wildcard) should be excluded from the results
-  * Blood pressure medication searches only: results containing 'drops' should be excluded to remove eye and nose drops. Results containing 'colistin ' (picked by 'istin ' keyword) should be removed.
+  * Blood pressure medication searches only: results containing 'drop' or 'drp' should be excluded to remove eye drops. Results containing 'colistin ', 'fabahistin' or 'antistin ' (picked by 'istin ' keyword) and 'guard' (picked up by 'uard' keyword) should also be removed.
 
 &nbsp;
 
