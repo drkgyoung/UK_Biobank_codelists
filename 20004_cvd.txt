@@ -1,7 +1,7 @@
 Code	Description
 1069	heart surgery
 1070	coronary angioplasty (ptca) +/- stent
-1095 	 artery bypass grafts
+1095 	artery bypass grafts
 1097	heart valve surgery
 1098	heart transplant
 1099	aortic valve repair/replacement
