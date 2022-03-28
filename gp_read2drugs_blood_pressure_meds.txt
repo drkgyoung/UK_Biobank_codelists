@@ -1,0 +1,1100 @@
+Code	Description	Class1	Class2	Class3
+b2...	THIAZIDE DIURETICS	thiazide_diuretic		
+b21a.	*URIZIDE 5mg tablets	thiazide_diuretic		
+b21b.	NEO-NACLEX 2.5mg tablets	thiazide_diuretic		
+b21..	BENDROFLUMETHIAZIDE	thiazide_diuretic		
+b211.	BENDROFLUMETHIAZIDE 2.5mg tablets	thiazide_diuretic		
+b212.	BENDROFLUMETHIAZIDE 5mg tablets	thiazide_diuretic		
+b213.	APRINOX 2.5mg tablets	thiazide_diuretic		
+b214.	APRINOX 5mg tablets	thiazide_diuretic		
+b215.	*BERKOZIDE 2.5mg tablets	thiazide_diuretic		
+b216.	*BERKOZIDE 5mg tablets	thiazide_diuretic		
+b217.	*CENTYL 2.5mg tablets	thiazide_diuretic		
+b218.	*CENTYL 5mg tablets	thiazide_diuretic		
+b219.	NEO-NACLEX 5mg tablets	thiazide_diuretic		
+b21A.	*NEO-BENDROMAX 2.5mg tablets	thiazide_diuretic		
+b21B.	*NEO-BENDROMAX 5mg tablets	thiazide_diuretic		
+b22y.	CHLOROTHIAZIDE 250mg/5mL oral suspension	thiazide_diuretic		
+b22z.	*CHLOROTHIAZIDE 500mg tablets	thiazide_diuretic		
+b22..	CHLOROTHIAZIDE	thiazide_diuretic		
+b221.	*SALURIC 500mg tablets	thiazide_diuretic		
+b222.	DIURIL 250mg/5mL oral suspension	thiazide_diuretic		
+b23y.	CHLORTALIDONE 50mg tablets	thiazide_diuretic		
+b23z.	*CHLORTHALIDONE 100mg tablets	thiazide_diuretic		
+b23..	CHLORTALIDONE	thiazide_diuretic		
+b231.	HYGROTON 50mg tablets	thiazide_diuretic		
+b232.	*HYGROTON 100mg tablets	thiazide_diuretic		
+b24..	CLOPAMIDE [INGREDIENT see bdek]	thiazide_diuretic		
+b25z.	CYCLOPENTHIAZIDE 500microgram tablets	thiazide_diuretic		
+b25..	CYCLOPENTHIAZIDE	thiazide_diuretic		
+b251.	NAVIDREX 500micrograms tablets	thiazide_diuretic		
+b26y.	HYDROCHLOROTHIAZIDE 50mg tablets	thiazide_diuretic		
+b26z.	HYDROCHLOROTHIAZIDE 25mg tablets	thiazide_diuretic		
+b26..	HYDROCHLOROTHIAZIDE	thiazide_diuretic		
+b261.	*ESIDREX 25mg tablets	thiazide_diuretic		
+b262.	*ESIDREX 50mg tablets	thiazide_diuretic		
+b263.	*HYDROSALURIC 25mg tablets	thiazide_diuretic		
+b264.	*HYDROSALURIC 50mg tablets	thiazide_diuretic		
+b27z.	HYDROFLUMETHIAZIDE 50mg tablets	thiazide_diuretic		
+b27..	HYDROFLUMETHIAZIDE	thiazide_diuretic		
+b271.	*HYDRENOX 50mg tablets	thiazide_diuretic		
+b28z.	INDAPAMIDE 2.5mg tablets	thiazide_diuretic		
+b28..	INDAPAMIDE	thiazide_diuretic		
+b281.	NATRILIX 2.5mg tablets	thiazide_diuretic		
+b282.	*NINDAXA 2.5mg tablets	thiazide_diuretic		
+b283.	*NATRAMID 2.5mg tablets	thiazide_diuretic		
+b284.	*OPUMIDE 2.5mg tablets	thiazide_diuretic		
+b285.	INDAPAMIDE 1.5mg m/r tablets	thiazide_diuretic		
+b286.	NATRILIX SR 1.5mg m/r tablets	thiazide_diuretic		
+b287.	ETHIBIDE XL 1.5mg m/r tablets	thiazide_diuretic		
+b288.	INDIPAM XL 1.5mg m/r tablets	thiazide_diuretic		
+b289.	MAPEMID XL 1.5mg m/r tablets	thiazide_diuretic		
+b2az.	*METHYCLOTHIAZIDE 5mg tablets	thiazide_diuretic		
+b2a..	*METHYCLOTHIAZIDE	thiazide_diuretic		
+b2a1.	*ENDURON 5mg tablets	thiazide_diuretic		
+b2bz.	*METOLAZONE 5mg tablets	thiazide_diuretic		
+b2b..	METOLAZONE	thiazide_diuretic		
+b2b1.	*METENIX-5 5mg tablets	thiazide_diuretic		
+b2b2.	*XURET 500micrograms tablets	thiazide_diuretic		
+b2b3.	METOLAZONE 500micrograms tablets	thiazide_diuretic		
+b2cz.	*POLYTHIAZIDE 1mg tablets	thiazide_diuretic		
+b2c..	POLYTHIAZIDE	thiazide_diuretic		
+b2c1.	*NEPHRIL 1mg tablets	thiazide_diuretic		
+b51a.	MODURET-25 tablets	thiazide_diuretic		
+b51b.	MODURETIC tablets	thiazide_diuretic		
+b51c.	*MODURETIC mixture	thiazide_diuretic		
+b51e.	*SYNURETIC tablets	thiazide_diuretic		
+b51f.	*TRIAMCO tablets	thiazide_diuretic		
+b51g.	*HYPERTANE-50 tablets	thiazide_diuretic		
+b51j.	CO-AMILOZIDE 2.5/25mg tablets	thiazide_diuretic		
+b51k.	CO-AMILOZIDE 5/50mg tablets	thiazide_diuretic		
+b51l.	CO-AMILOZIDE 5mg/50mg/5mL mixture	thiazide_diuretic		
+b51m.	VASETIC CO-AMILOZIDE 5/50mg tablets	thiazide_diuretic		
+b51p.	CO-FLUMACTONE-25 tablets	thiazide_diuretic		
+b51q.	CO-FLUMACTONE-50 tablets	thiazide_diuretic		
+b51r.	NAVISPARE 2.5/0.25mg tablets	thiazide_diuretic		
+b51s.	*AMILMAXCO 5/50 tablets	thiazide_diuretic		
+b51v.	*TRIAMAXCO 50/25mg tablets	thiazide_diuretic		
+b51w.	*KALSPARE LS tablets	thiazide_diuretic		
+b511.	ALDACTIDE-25 tablets	thiazide_diuretic		
+b512.	ALDACTIDE-50 tablets	thiazide_diuretic		
+b513.	*AMILCO tablets	thiazide_diuretic		
+b514.	DYAZIDE tablets	thiazide_diuretic		
+b515.	*DYTIDE capsules	thiazide_diuretic		
+b518.	KALSPARE tablets	thiazide_diuretic		
+b51A.	CO-TRIAMTERZIDE 50/25mg tablets	thiazide_diuretic		
+b51C.	AMILORIDE HCL+CYCLOPENTHIAZIDE 2.5mg/250micrograms tablets	thiazide_diuretic		
+b51E.	TRIAMTERENE+BENZTHIAZIDE 50mg/25mg capsules	thiazide_diuretic		
+b51F.	TRIAMTERENE+CHLORTHALIDONE 50mg/25mg tablets	thiazide_diuretic		
+b51G.	TRIAMTERENE+CHLORTALIDONE 50mg/50mg tablets	thiazide_diuretic		
+b51K.	*DELVAS tablets	thiazide_diuretic		
+b51Q.	*ZIDA-CO 5mg/50mg tablets	thiazide_diuretic		
+b91a.	NEO-NACLEX-K tablets	thiazide_diuretic		
+b91c.	BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/7.7mmol m/r tablets	thiazide_diuretic		
+b91e.	CHLORTHALIDONE tablets+POTASSIUM m/r tablets 25mg/6.7mmol pack	thiazide_diuretic		
+b91h.	BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/8.4mmol m/r tablets	thiazide_diuretic		
+b913.	*CENTYL K m/r tablets	thiazide_diuretic		
+b915.	*ESIDREX K tablets	thiazide_diuretic		
+b916.	HYGROTON K tablets combination pack	thiazide_diuretic		
+b919.	*NAVIDREX-K tablets	thiazide_diuretic		
+bA...	CALCIUM-CHANNEL BLOCKER+ANGIOTENSIN-CONVERTING ENZYME INHIBITOR	ace_inhibitor	calcium_channel_blocker	
+bA1y.	FELODIPINE+RAMIPRIL 2.5mg/2.5mg tablets	ace_inhibitor	calcium_channel_blocker	
+bA1z.	FELODIPINE+RAMIPRIL 5mg/5mg tablets	ace_inhibitor	calcium_channel_blocker	
+bA1..	FELODIPINE+RAMIPRIL	ace_inhibitor	calcium_channel_blocker	
+bA11.	TRIAPIN MITE 2.5mg/2.5mg tablets	ace_inhibitor	calcium_channel_blocker	
+bA12.	TRIAPIN 5mg/5mg tablets	ace_inhibitor	calcium_channel_blocker	
+bb3a.	CORDILOX 120mg tablets	calcium_channel_blocker		
+bb3b.	*CORDILOX 160mg tablets	calcium_channel_blocker		
+bb3c.	*CORDILOX 5mg/2mL injection	calcium_channel_blocker		
+bb3d.	*SECURON 40mg tablets	calcium_channel_blocker		
+bb3e.	*SECURON 80mg tablets	calcium_channel_blocker		
+bb3f.	*SECURON 120mg tablets	calcium_channel_blocker		
+bb3g.	*SECURON 120mg tablets 56CP	calcium_channel_blocker		
+bb3h.	*SECURON 160mg tablets 56CP	calcium_channel_blocker		
+bb3i.	*SECURON 160mg tablets	calcium_channel_blocker		
+bb3j.	SECURON SR 240mg m/r tablets	calcium_channel_blocker		
+bb3k.	SECURON SR 240mg m/r tablets 28CP	calcium_channel_blocker		
+bb3l.	UNIVER 120mg m/r capsules x28	calcium_channel_blocker		
+bb3m.	UNIVER 180mg m/r capsules x56	calcium_channel_blocker		
+bb3n.	UNIVER 240mg m/r capsules x28	calcium_channel_blocker		
+bb3o.	SECURON IV 5mg/2mL injection	calcium_channel_blocker		
+bb3p.	*GEANGIN 40mg tablets	calcium_channel_blocker		
+bb3q.	*GEANGIN 80mg tablets	calcium_channel_blocker		
+bb3r.	*GEANGIN 120mg tablets	calcium_channel_blocker		
+bb3s.	VERTAB SR 240 m/r tablets	calcium_channel_blocker		
+bb3t.	VERAPAMIL 5mg/2mL injection	calcium_channel_blocker		
+bb3v.	VERAPAMIL 120mg m/r capsules	calcium_channel_blocker		
+bb3w.	VERAPAMIL 160mg tablets	calcium_channel_blocker		
+bb3x.	VERPAMIL HCL 120mg tablets x56	calcium_channel_blocker		
+bb3y.	VERAPAMIL 240mg m/r capsules	calcium_channel_blocker		
+bb3z.	VERAPAMIL 180mg m/r capsules	calcium_channel_blocker		
+bb3..	VERAPAMIL HYDROCHLORIDE	calcium_channel_blocker		
+bb31.	VERAPAMIL 40mg tablets	calcium_channel_blocker		
+bb32.	VERAPAMIL 80mg tablets	calcium_channel_blocker		
+bb33.	VERAPAMIL 120mg tablets	calcium_channel_blocker		
+bb34.	*BERKATENS 40mg tablets	calcium_channel_blocker		
+bb35.	*BERKATENS 80mg tablets	calcium_channel_blocker		
+bb36.	*BERKATENS 120mg tablets	calcium_channel_blocker		
+bb37.	*BERKATENS 160mg tablets	calcium_channel_blocker		
+bb38.	*CORDILOX 40mg tablets	calcium_channel_blocker		
+bb39.	*CORDILOX 80mg tablets	calcium_channel_blocker		
+bb3A.	VERAPAMIL 240mg m/r tablets	calcium_channel_blocker		
+bb3B.	HALF SECURON SR 120mg m/r tablets	calcium_channel_blocker		
+bb3C.	VERAPAMIL 120mg m/r tablets	calcium_channel_blocker		
+bb3D.	VERAPAMIL 40mg/5mL sugar free solution	calcium_channel_blocker		
+bb3E.	VERAPAMIL HCL 5mg/2mL prefilled syringe	calcium_channel_blocker		
+bb3F.	HALF-SECURON SR 120mg m/r tablets 28CP	calcium_channel_blocker		
+bb3G.	*HYPANEZE 40 tablets	calcium_channel_blocker		
+bb3H.	*HYPANEZE 80 tablets	calcium_channel_blocker		
+bb3J.	*HYPANEZE 120 tablets	calcium_channel_blocker		
+bb3K.	*VERAPRESS MR 240 m/r tablets	calcium_channel_blocker		
+bb3L.	*ETHIMIL MR 240 m/r tablets	calcium_channel_blocker		
+bb3M.	CORDILOX MR 240 m/r tablets	calcium_channel_blocker		
+bb3N.	ZOLVERA 40mg/5mL oral solution	calcium_channel_blocker		
+bb3O.	*RANVERA MR 240mg m/r tablets	calcium_channel_blocker		
+bb3P.	VERA-TIL SR 240mg m/r tablets	calcium_channel_blocker		
+bb3Q.	VERA-TIL SR 120mg m/r tablets	calcium_channel_blocker		
+bc7z.	*PRACTOLOL 10mg/5mL injection	beta_blocker		
+bc7..	*PRACTOLOL [ANTIARRHYTHMIC]	beta_blocker		
+bc71.	*ERALDIN 10mg/5mL injection	beta_blocker		
+bd...	BETA-ADRENOCEPTOR BLOCKERS	beta_blocker		
+bd1a.	*APSOLOL 40mg tablets	beta_blocker		
+bd1b.	*APSOLOL 80mg tablets	beta_blocker		
+bd1c.	*APSOLOL 160mg tablets	beta_blocker		
+bd1d.	*BEDRANOL 10mg tablets	beta_blocker		
+bd1e.	*BEDRANOL 40mg tablets	beta_blocker		
+bd1f.	*BEDRANOL 80mg tablets	beta_blocker		
+bd1g.	BEDRANOL SR 160mg m/r capsules	beta_blocker		
+bd1h.	*BERKOLOL 10mg tablets	beta_blocker		
+bd1i.	*BERKOLOL 40mg tablets	beta_blocker		
+bd1j.	*BERKOLOL 80mg tablets	beta_blocker		
+bd1k.	*BERKOLOL 160mg tablets	beta_blocker		
+bd1l.	HALF-INDERAL LA 80mg m/r capsules	beta_blocker		
+bd1m.	*INDERAL 10mg tablets	beta_blocker		
+bd1n.	*INDERAL 40mg tablets	beta_blocker		
+bd1o.	*INDERAL 80mg tablets	beta_blocker		
+bd1p.	*INDERAL 160mg tablets	beta_blocker		
+bd1q.	*INDERAL 1mg/1mL injection	beta_blocker		
+bd1r.	*INDERAL-LA 160mg m/r capsules	beta_blocker		
+bd1s.	*SLOPROLOL 160mg m/r capsules	beta_blocker		
+bd1t.	*CARDINOL 10mg tablets	beta_blocker		
+bd1u.	*CARDINOL 40mg tablets	beta_blocker		
+bd1v.	*CARDINOL 80mg tablets	beta_blocker		
+bd1w.	*CARDINOL 160mg tablets	beta_blocker		
+bd1x.	PROPRANOLOL 160mg m/r capsules	beta_blocker		
+bd1y.	PROPRANOLOL 80mg m/r capsules	beta_blocker		
+bd1z.	SYPROL 10mg/5mL oral solution	beta_blocker		
+bd1..	PROPRANOLOL HYDROCHLORIDE	beta_blocker		
+bd11.	PROPRANOLOL 10mg tablets	beta_blocker		
+bd12.	PROPRANOLOL 40mg tablets	beta_blocker		
+bd13.	PROPRANOLOL 80mg tablets	beta_blocker		
+bd14.	PROPRANOLOL 160mg tablets	beta_blocker		
+bd15.	*ANGILOL 10mg tablets	beta_blocker		
+bd16.	*ANGILOL 40mg tablets	beta_blocker		
+bd17.	*ANGILOL 80mg tablets	beta_blocker		
+bd18.	*ANGILOL 160mg tablets	beta_blocker		
+bd19.	*APSOLOL 10mg tablets	beta_blocker		
+bd1A.	*PROPANIX 10mg tablets	beta_blocker		
+bd1B.	*PROPANIX 40mg tablets	beta_blocker		
+bd1C.	*PROPANIX 80mg tablets	beta_blocker		
+bd1D.	*PROPANIX 160mg tablets	beta_blocker		
+bd1E.	PROPANIX SR 160mg m/r capsules	beta_blocker		
+bd1F.	*BETADUR CR 160mg m/r tablets	beta_blocker		
+bd1G.	BETA-PROGRANE 160mg m/r capsules	beta_blocker		
+bd1H.	PROPRANOLOL 1mg/1mL injection	beta_blocker		
+bd1I.	PROPRANOLOL 5mg/5mL syrup	beta_blocker		
+bd1J.	PROPRANOLOL 50mg/5mL syrup	beta_blocker		
+bd1K.	HALF-BETADUR CR 80mg m/r capsules	beta_blocker		
+bd1L.	HALF BETA-PROGRANE 80mg m/r capsules	beta_blocker		
+bd1M.	*SLOPROLOL 80mg m/r capsules	beta_blocker		
+bd1N.	*PROBETA LA 160mg m/r capsules	beta_blocker		
+bd1O.	LOPRANOL LA 160mg m/r capsules	beta_blocker		
+bd1P.	PROPRANOLOL HYDROCHLORIDE 10mg/5mL syrup	beta_blocker		
+bd1Q.	PROPRANOLOL HYDROCHLORIDE 40mg/5mL syrup	beta_blocker		
+bd1R.	PROPRANOLOL HYDROCHLORIDE 80mg/5mL syrup	beta_blocker		
+bd1S.	HALF PROPANIX LA 80mg m/r capsules	beta_blocker		
+bd1T.	PROPANIX LA 160mg m/r capsules	beta_blocker		
+bd1U.	HALF PROPATARD LA 80mg m/r capsules	beta_blocker		
+bd1V.	PROPATARD LA 160mg m/r capsules	beta_blocker		
+bd1W.	PROPRANOLOL HYDROCHLORIDE 5mg/5mL sugar free oral solution	beta_blocker		
+bd1X.	PROPRANOLOL HYDROCHLORIDE 10mg/5mL sugar free oral solution	beta_blocker		
+bd1Y.	PROPRANOLOL HYDROCHLORIDE 50mg/5mL sugar free oral solution	beta_blocker		
+bd1Z.	SYPROL 5mg/5mL oral solution	beta_blocker		
+bd2w.	ACEBUTOLOL 100mg capsules	beta_blocker		
+bd2x.	ACEBUTOLOL 200mg capsules	beta_blocker		
+bd2y.	ACEBUTOLOL 400mg tablets	beta_blocker		
+bd2z.	*ACEBUTOLOL 10mg/2mL injection	beta_blocker		
+bd2..	ACEBUTOLOL	beta_blocker		
+bd21.	SECTRAL 100mg capsules	beta_blocker		
+bd22.	SECTRAL 200mg capsules	beta_blocker		
+bd23.	SECTRAL 400mg tablets	beta_blocker		
+bd24.	*SECTRAL 10mg/2mL injection	beta_blocker		
+bd3a.	*ANTIPRESSAN 50mg tablets	beta_blocker		
+bd3b.	*ANTIPRESSAN 100mg tablets	beta_blocker		
+bd3c.	*TENORMIN 25 tablets	beta_blocker		
+bd3d.	*VASATEN 50mg tablets	beta_blocker		
+bd3e.	*VASATEN 100mg tablets	beta_blocker		
+bd3f.	ATENIX 50mg tablets	beta_blocker		
+bd3g.	ATENIX 100mg tablets	beta_blocker		
+bd3h.	*TOTAMOL 50mg tablets	beta_blocker		
+bd3i.	*TOTAMOL 100mg tablets	beta_blocker		
+bd3j.	ATENOLOL 25mg tablets	beta_blocker		
+bd3k.	*TOTAMOL 25mg tablets	beta_blocker		
+bd3l.	*ANTIPRESSAN 25mg tablets	beta_blocker		
+bd3x.	ATENOLOL 25mg/5mL syrup	beta_blocker		
+bd3y.	ATENOLOL 5mg/10mL injection	beta_blocker		
+bd3z.	ATENIX 25mg tablets	beta_blocker		
+bd3..	ATENOLOL	beta_blocker		
+bd31.	TENORMIN 100mg tablets	beta_blocker		
+bd32.	TENORMIN 25mg/5mL syrup	beta_blocker		
+bd33.	TENORMIN 5mg/10mL injection	beta_blocker		
+bd34.	TENORMIN LS 50mg tablets	beta_blocker		
+bd35.	ATENOLOL 50mg tablets	beta_blocker		
+bd36.	ATENOLOL 100mg tablets	beta_blocker		
+bd37.	*TENORMIN CCU PACK	beta_blocker		
+bd38.	*BETA-ADALAT 50/20mg capsules	beta_blocker	calcium_channel_blocker	
+bd39.	*TENIF 50/20mg capsules	beta_blocker	calcium_channel_blocker	
+bd4z.	BETAXOLOL HYDROCHLORIDE 20mg tablets	beta_blocker		
+bd4..	BETAXOLOL HCL [B-BLOCKER]	beta_blocker		
+bd41.	*KERLONE 20mg tablets	beta_blocker		
+bd5a.	TRANDATE 400mg tablets	beta_blocker		
+bd5b.	*TRANDATE 100mg/20mL injection	beta_blocker		
+bd5c.	LABETALOL HYDROCHLORIDE 50mg/10mL prefilled syringe	beta_blocker		
+bd5t.	*LABETALOL 100mg tablets	beta_blocker		
+bd5u.	*LABETALOL 200mg tablets	beta_blocker		
+bd5v.	LABETALOL 50mg tablets	beta_blocker		
+bd5w.	*LABETALOL 100mg tablets	beta_blocker		
+bd5x.	*LABETALOL 200mg tablets	beta_blocker		
+bd5y.	*LABETALOL 400mg tablets	beta_blocker		
+bd5z.	LABETALOL 100mg/20mL injection	beta_blocker		
+bd5..	LABETALOL HYDROCHLORIDE	beta_blocker		
+bd51.	LABETALOL 100mg tablets	beta_blocker		
+bd52.	LABETALOL 200mg tablets	beta_blocker		
+bd53.	LABETALOL 400mg tablets	beta_blocker		
+bd54.	*LABROCOL 100mg tablets	beta_blocker		
+bd55.	*LABROCOL 200mg tablets	beta_blocker		
+bd56.	*LABROCOL 400mg tablets	beta_blocker		
+bd57.	TRANDATE 50mg tablets	beta_blocker		
+bd58.	TRANDATE 100mg tablets	beta_blocker		
+bd59.	TRANDATE 200mg tablets	beta_blocker		
+bd6a.	*LOPRESOR 5mg/5mL injection	beta_blocker		
+bd6b.	LOPRESOR SR 200mg m/r tablets	beta_blocker		
+bd6c.	*ARBRALENE 50mg tablets	beta_blocker		
+bd6d.	*ARBRALENE 100mg tablets	beta_blocker		
+bd6e.	*TENSOMEX 100mg tablets	beta_blocker		
+bd6w.	METOPROLOL 100mg tablets	beta_blocker		
+bd6x.	METOPROLOL 50mg tablets	beta_blocker		
+bd6y.	METOPROLOL 5mg/5mL injection	beta_blocker		
+bd6z.	METOPROLOL 200mg m/r tablets	beta_blocker		
+bd6..	METOPROLOL TARTRATE	beta_blocker		
+bd61.	*BETALOC 50mg tablets	beta_blocker		
+bd62.	*BETALOC 100mg tablets	beta_blocker		
+bd63.	BETALOC 5mg/5mL injection	beta_blocker		
+bd64.	BETALOC-SA DURULES 200mg m/r tablets	beta_blocker		
+bd65.	LOPRESOR 50mg tablets	beta_blocker		
+bd66.	LOPRESOR 100mg tablets	beta_blocker		
+bd67.	*MEPRANIX 50mg tablets	beta_blocker		
+bd68.	*MEPRANIX 100mg tablets	beta_blocker		
+bd7y.	*NADOLOL 40mg tablets	beta_blocker		
+bd7z.	NADOLOL 80mg tablets	beta_blocker		
+bd7..	NADOLOL	beta_blocker		
+bd71.	*CORGARD 40mg tablets	beta_blocker		
+bd72.	CORGARD 80mg tablets	beta_blocker		
+bd8a.	*LARACOR 40mg tablets	beta_blocker		
+bd8b.	*LARACOR 80mg tablets	beta_blocker		
+bd8c.	*LARACOR 160mg tablets	beta_blocker		
+bd8d.	*SLOW-PREN 160mg m/r tablets	beta_blocker		
+bd8e.	SLOW-TRASICOR 160mg m/r tablets	beta_blocker		
+bd8f.	*TRASICOR 20mg tablets	beta_blocker		
+bd8g.	*TRASICOR 40mg tablets	beta_blocker		
+bd8h.	*TRASICOR 80mg tablets	beta_blocker		
+bd8i.	*TRASICOR 160mg tablets	beta_blocker		
+bd8j.	*TRASICOR 2mg injection	beta_blocker		
+bd8k.	*PARITANE 20mg tablets	beta_blocker		
+bd8l.	*PARITANE 40mg tablets	beta_blocker		
+bd8m.	*PARITANE 80mg tablets	beta_blocker		
+bd8n.	*PARITANE 160mg tablets	beta_blocker		
+bd8o.	*OXYPRENIX 160mg m/r tablets	beta_blocker		
+bd8u.	OXPRENOLOL 160mg m/r tablets	beta_blocker		
+bd8..	OXPRENOLOL HYDROCHLORIDE	beta_blocker		
+bd81.	OXPRENOLOL 20mg tablets	beta_blocker		
+bd82.	OXPRENOLOL 40mg tablets	beta_blocker		
+bd83.	OXPRENOLOL 80mg tablets	beta_blocker		
+bd84.	OXPRENOLOL 160mg tablets	beta_blocker		
+bd85.	*APSOLOX 20mg tablets	beta_blocker		
+bd86.	*APSOLOX 40mg tablets	beta_blocker		
+bd87.	*APSOLOX 80mg tablets	beta_blocker		
+bd88.	*APSOLOX 160mg tablets	beta_blocker		
+bd89.	*LARACOR 20mg tablets	beta_blocker		
+bd9..	PENBUTOLOL SULPHATE[INGREDIENT]	beta_blocker		
+bday.	PINDOLOL 5mg tablets	beta_blocker		
+bdaz.	PINDOLOL 15mg tablets	beta_blocker		
+bda..	PINDOLOL	beta_blocker		
+bda1.	VISKEN 5mg tablets	beta_blocker		
+bda2.	VISKEN 15mg tablets	beta_blocker		
+bda3.	*BETADREN 5mg tablets	beta_blocker		
+bda4.	*BETADREN 15mg tablets	beta_blocker		
+bdb..	*PRACTOLOL [B-BLOCKER]	beta_blocker		
+bdcs.	*SOTALOL 40mg/4mL injection	beta_blocker		
+bdcu.	SOTALOL 40mg tablets	beta_blocker		
+bdcv.	SOTALOL 80mg tablets	beta_blocker		
+bdcw.	SOTALOL 200mg tablets	beta_blocker		
+bdcx.	SOTALOL 160mg tablets	beta_blocker		
+bdcy.	*SOTALOL 10mg/5mL injection	beta_blocker		
+bdcz.	*SOTALOL 100mg/10mL injection	beta_blocker		
+bdc..	SOTALOL HYDROCHLORIDE	beta_blocker		
+bdc1.	*BETA-CARDONE 40mg tablets	beta_blocker		
+bdc2.	BETA-CARDONE 80mg tablets	beta_blocker		
+bdc3.	BETA-CARDONE 200mg tablets	beta_blocker		
+bdc4.	SOTACOR 80mg tablets	beta_blocker		
+bdc5.	*SOTACOR 160mg tablets	beta_blocker		
+bdc6.	*SOTACOR 10mg/5mL injection	beta_blocker		
+bdc7.	*SOTACOR 100mg/10mL injection	beta_blocker		
+bdc8.	*SOTACOR 40mg/4mL injection	beta_blocker		
+bddz.	TIMOLOL 10mg tablets	beta_blocker		
+bdd..	TIMOLOL MALEATE [B-BLOCKER]	beta_blocker		
+bdd1.	*BETIM 10mg tablets	beta_blocker		
+bdd2.	*BLOCADREN 10mg tablets	beta_blocker		
+bdea.	*MODUCREN tablets	beta_blocker	thiazide_diuretic	
+bdeb.	PRESTIM tablets	beta_blocker	thiazide_diuretic	
+bdec.	*PRESTIM FORTE tablets	beta_blocker	thiazide_diuretic	
+bded.	*SECADREX tablets	beta_blocker	thiazide_diuretic	
+bdee.	*SOTAZIDE tablets	beta_blocker	thiazide_diuretic	
+bdef.	*SPIROPROP tablets	beta_blocker		
+bdeg.	TENORET-50 tablets	beta_blocker	thiazide_diuretic	
+bdeh.	TENORETIC tablets	beta_blocker	thiazide_diuretic	
+bdei.	*TOLERZIDE tablets	beta_blocker	thiazide_diuretic	
+bdej.	*TRASIDREX tablets	beta_blocker	thiazide_diuretic	
+bdek.	VISKALDIX tablets	beta_blocker	thiazide_diuretic	
+bdel.	*CO-PRENOZIDE tablets	beta_blocker	thiazide_diuretic	
+bdem.	CO-TENIDONE 50/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bden.	CO-TENIDONE 100/25mg tablets	beta_blocker	thiazide_diuretic	
+bdeo.	ATENIXCO 50/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdep.	*ATENIXCO 100/25mg tablets	beta_blocker	thiazide_diuretic	
+bdeq.	*TENCHLOR 50/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bder.	*TENCHLOR 100/25mg tablets	beta_blocker	thiazide_diuretic	
+bdes.	*BETA-ADALAT 50/20mg capsules	beta_blocker	calcium_channel_blocker	
+bdet.	TENIF 50/20mg capsules	beta_blocker	calcium_channel_blocker	
+bdeu.	CO-PRENOZIDE 160/0.25mg m/r tablets	beta_blocker	thiazide_diuretic	
+bdev.	PROPRANOLOL HCL+BENDROFLUAZIDE 80mg/2.5mg capsules	beta_blocker	thiazide_diuretic	
+bdew.	PROPRANOLOL HCL+BENDROFLUAZIDE 160mg/5mg m/r capsules	beta_blocker	thiazide_diuretic	
+bdex.	ACEBUTOLOL+HYDROCHLOROTHIAZIDE 200mg/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdey.	ATENOLOL+CO-AMILOZIDE 50mg/2.5mg/25mg capsules	beta_blocker	thiazide_diuretic	
+bdez.	ATENOLOL+NIFEDIPINE 50mg/20mg m/r capsules	beta_blocker	calcium_channel_blocker	
+bde..	COMPOUND BETA-BLOCKERS	beta_blocker		
+bde1.	*CO-BETALOC tablets	beta_blocker	thiazide_diuretic	
+bde2.	*CO-BETALOC SA m/r tablets	beta_blocker	thiazide_diuretic	
+bde3.	*CORGARETIC-40 tablets	beta_blocker	thiazide_diuretic	
+bde4.	*CORGARETIC-80 tablets	beta_blocker	thiazide_diuretic	
+bde5.	*INDERETIC capsules	beta_blocker	thiazide_diuretic	
+bde6.	*INDEREX m/r capsules	beta_blocker	thiazide_diuretic	
+bde7.	KALTEN capsules	beta_blocker	thiazide_diuretic	
+bde8.	*LASIPRESSIN tablets	beta_blocker		
+bde9.	*LOPRESORETIC tablets	beta_blocker	thiazide_diuretic	
+bdeA.	METOPROLOL TART+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdeB.	METOPROLOL TART+HYDROCHLOROTHIAZIDE 200mg/25mg m/r tablets	beta_blocker	thiazide_diuretic	
+bdeC.	METOPROLOL TART+CHLORTHALIDONE 100mg/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdeD.	NADOLOL+BENDROFLUMETHIAZIDE 40mg/5mg tablets	beta_blocker	thiazide_diuretic	
+bdeE.	NADOLOL+BENDROFLUAZIDE 80mg/5mg tablets	beta_blocker	thiazide_diuretic	
+bdeF.	PENBUTOLOL SULPHATE+FRUSEMIDE 40mg/20mg tablets	beta_blocker		
+bdeG.	PINDOLOL+CLOPAMIDE 10mg/5mg tablets	beta_blocker	thiazide_diuretic	
+bdeH.	SOTALOL HCL+HYDROCHLOROTHIAZIDE 160mg/25mg tablets	beta_blocker	thiazide_diuretic	
+bdeJ.	SOTALOL HCL+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdeK.	TIMOLOL MALEATE+CO-AMILOZIDE 10mg/2.5mg/25mg tablets	beta_blocker	thiazide_diuretic	
+bdeL.	TIMOLOL MALEATE+BENDROFLUMETHIAZIDE 10mg/2.5mg tablets	beta_blocker	thiazide_diuretic	
+bdeM.	TIMOLOL MALEATE+BENDROFLUAZIDE 20mg/5mg tablets	beta_blocker	thiazide_diuretic	
+bdeN.	TOTARETIC 50mg/12.5mg tablets	beta_blocker	thiazide_diuretic	
+bdeO.	TOTARETIC 100mg/25mg tablets	beta_blocker	thiazide_diuretic	
+bdeP.	ATENOLOL+BENDROFLUAZIDE 25mg/1.25mg capsules	beta_blocker	thiazide_diuretic	
+bdeQ.	*TENBEN capsules	beta_blocker	thiazide_diuretic	
+bdeR.	COMBITENS m/r capsules	ace_inhibitor	beta_blocker	
+bdfw.	BISOPROLOL FUMARATE 1.25mg tablets	beta_blocker		
+bdfx.	BISOPROLOL FUMARATE 2.5mg tablets	beta_blocker		
+bdfy.	BISOPROLOL FUMARATE 3.75mg tablets	beta_blocker		
+bdfz.	BISOPROLOL FUMARATE 7.5mg tablets	beta_blocker		
+bdf..	BISOPROLOL FUMARATE	beta_blocker		
+bdf1.	BISOPROLOL FUMARATE 5mg tablets	beta_blocker		
+bdf2.	BISOPROLOL FUMARATE 10mg tablets	beta_blocker		
+bdf3.	*MONOCOR 5mg tablets	beta_blocker		
+bdf4.	*MONOCOR 10mg tablets	beta_blocker		
+bdf5.	*EMCOR LS 5mg tablets	beta_blocker		
+bdf6.	*EMCOR 10mg tablets	beta_blocker		
+bdf7.	*MONOZIDE-10 tablets	beta_blocker	thiazide_diuretic	
+bdf8.	BISOPROLOL FUMARATE+HYDROCHLOROTHIAZIDE 10mg/6.25mg tablets	beta_blocker	thiazide_diuretic	
+bdf9.	CARDICOR 1.25mg tablets	beta_blocker		
+bdfA.	CARDICOR 2.5mg tablets	beta_blocker		
+bdfB.	CARDICOR 3.75mg tablets	beta_blocker		
+bdfC.	CARDICOR 5mg tablets	beta_blocker		
+bdfD.	CARDICOR 7.5mg tablets	beta_blocker		
+bdfE.	CARDICOR 10mg tablets	beta_blocker		
+bdfF.	*BIPRANIX 5mg tablets	beta_blocker		
+bdfG.	*BIPRANIX 10mg tablets	beta_blocker		
+bdfH.	*SOLOC 5mg tablets	beta_blocker		
+bdfI.	*SOLOC 10mg tablets	beta_blocker		
+bdfJ.	VIVACOR 10mg tablets	beta_blocker		
+bdfK.	VIVACOR 5mg tablets	beta_blocker		
+bdfL.	CONGESCOR 1.25mg tablets	beta_blocker		
+bdfM.	CONGESCOR 2.5mg tablets	beta_blocker		
+bdg..	*XAMOTEROL FUMARATE	beta_blocker		
+bdg1.	*XAMOTEROL 200mg tablets	beta_blocker		
+bdg2.	*CORWIN 200mg tablets	beta_blocker		
+bdh..	*METOPROLOL FUMARATE	beta_blocker		
+bdh1.	METOPROLOL FUMARATE 190mg tablets	beta_blocker		
+bdh2.	METOPROLOL FUMARATE 95mg tablets	beta_blocker		
+bdh3.	*METOROS 190mg tablets	beta_blocker		
+bdh4.	*METOROS 95mg tablets	beta_blocker		
+bdi..	*CARTEOLOL HYDROCHLORIDE	beta_blocker		
+bdi1.	*CARTEOLOL 10mg tablets	beta_blocker		
+bdi2.	*CARTROL 10mg tablets	beta_blocker		
+bdj..	CELIPROLOL HYDROCHLORIDE	beta_blocker		
+bdj1.	CELIPROLOL 200mg tablets	beta_blocker		
+bdj2.	CELECTOL 200mg tablets 28-CP	beta_blocker		
+bdj3.	CELECTOL 200mg tablets	beta_blocker		
+bdj4.	CELIPROLOL 400mg tablets	beta_blocker		
+bdj5.	CELECTOL 400mg tablets	beta_blocker		
+bdk..	ESMOLOL HYDROCHLORIDE	beta_blocker		
+bdk1.	ESMOLOL HCL 2.5g/10mL injection	beta_blocker		
+bdk2.	ESMOLOL HCL 100mg/10mL injection	beta_blocker		
+bdk3.	BREVIBLOC CONCENTRATE 2.5g/10mL injection	beta_blocker		
+bdk4.	BREVIBLOC 100mg/10mL injection	beta_blocker		
+bdk5.	ESMOLOL HYDROCHLORIDE 10mg/mL infusion solution	beta_blocker		
+bdk6.	BREVIBLOC 10mg/mL infusion solution	beta_blocker		
+bdk7.	ESMOLOL HYDROCHLORIDE 2.5g powder for solution for injection	beta_blocker		
+bdl..	CARVEDILOL	beta_blocker		
+bdl1.	*EUCARDIC 12.5 tablets	beta_blocker		
+bdl2.	*EUCARDIC 25 tablets	beta_blocker		
+bdl3.	CARVEDILOL 12.5mg tablets	beta_blocker		
+bdl4.	CARVEDILOL 25mg tablets	beta_blocker		
+bdl5.	CARVEDILOL 3.125mg tablets	beta_blocker		
+bdl6.	CARVEDILOL 6.25mg tablets	beta_blocker		
+bdl7.	*EUCARDIC 3.125 tablets	beta_blocker		
+bdl8.	*EUCARDIC 6.25 tablets	beta_blocker		
+bdmy.	NEBIVOLOL 2.5mg tablets	beta_blocker		
+bdmz.	NEBIVOLOL 5mg tablets	beta_blocker		
+bdm..	NEBIVOLOL	beta_blocker		
+bdm1.	NEBILET 5mg tablets	beta_blocker		
+bdm2.	HYPOLOC 5mg tablets	beta_blocker		
+bdn..	PROPRANOLOL HYDROCHLORIDE [2]	beta_blocker		
+bdn1.	SYPROL 50mg/5mL oral solution	beta_blocker		
+bdn2.	BEDRANOL SR 80mg m/r capsules	beta_blocker		
+bdn3.	*RAPRANOL SR 80mg m/r capsules	beta_blocker		
+bdn4.	RAPRANOL SR 160mg m/r capsules	beta_blocker		
+bdn5.	SYPROL 40mg/5mL oral solution	beta_blocker		
+bdn6.	PROPRANOLOL HYDROCHLORIDE 40mg/5mL sugar free oral solution	beta_blocker		
+bf2j.	METHYLDOPA+HYDROCHLOROTHIAZIDE 250mg/15mg tablets	thiazide_diuretic		
+bf3c.	*SERPASIL-ESIDREX tablets	thiazide_diuretic		
+bi...	ANGIOTENSIN-CONVERTING ENZYME INHIBITORS	ace_inhibitor		
+bi1a.	CAPOTEN 50mg tablets x56	ace_inhibitor		
+bi1b.	ACEZIDE 50mg tablets x56	ace_inhibitor	thiazide_diuretic	
+bi1c.	*CAPOZIDE 50mg tablets x28	ace_inhibitor	thiazide_diuretic	
+bi1d.	*CAPOZIDE LS 25mg tabletsx28CP	ace_inhibitor	thiazide_diuretic	
+bi1e.	CAPTOPRIL+HYDROCHLOROTHIAZIDE 25mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1f.	CAPTOPRIL+HYDROCHLOROTHIAZIDE 50mg/25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1g.	ECOPACE 12.5mg tablets	ace_inhibitor		
+bi1h.	ECOPACE 25mg tablets	ace_inhibitor		
+bi1i.	ECOPACE 50mg tablets	ace_inhibitor		
+bi1j.	*KAPLON 12.5mg tablets	ace_inhibitor		
+bi1k.	*KAPLON 25mg tablets	ace_inhibitor		
+bi1l.	*KAPLON 50mg tablets	ace_inhibitor		
+bi1m.	*HYTENEZE 12.5 tablets	ace_inhibitor		
+bi1n.	*HYTENEZE 25 tablets	ace_inhibitor		
+bi1o.	*HYTENEZE 50 tablets	ace_inhibitor		
+bi1p.	*TENSOPRIL 12.5mg tablets	ace_inhibitor		
+bi1q.	*TENSOPRIL 25mg tablets	ace_inhibitor		
+bi1r.	*TENSOPRIL 50mg tablets	ace_inhibitor		
+bi1s.	CAPOZIDE 50mg/25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1v.	CAPTOPRIL 12.5mg tablets	ace_inhibitor		
+bi1w.	CAPTOPRIL 25mg tablets	ace_inhibitor		
+bi1x.	CAPTOPRIL 25mg tablets x56	ace_inhibitor		
+bi1y.	CAPTOPRIL 50mg tablets x56	ace_inhibitor		
+bi1z.	CAPTOPRIL 50mg tablets	ace_inhibitor		
+bi1..	CAPTOPRIL	ace_inhibitor		
+bi11.	ACEPRIL 12.5mg tablets	ace_inhibitor		
+bi12.	ACEPRIL 25mg tablets	ace_inhibitor		
+bi13.	ACEPRIL 25mg tablets x56	ace_inhibitor		
+bi14.	ACEPRIL 50mg tablets	ace_inhibitor		
+bi15.	ACEPRIL 50mg tablets x56	ace_inhibitor		
+bi16.	*CAPOTEN 12.5mg tablets	ace_inhibitor		
+bi17.	CAPOTEN 25mg tablets	ace_inhibitor		
+bi18.	CAPOTEN 25mg tablets x56	ace_inhibitor		
+bi19.	CAPOTEN 50mg tablets	ace_inhibitor		
+bi1A.	*HYPAPRIL 12.5mg tablets	ace_inhibitor		
+bi1B.	*HYPAPRIL 25mg tablets	ace_inhibitor		
+bi1C.	*HYPAPRIL 50mg tablets	ace_inhibitor		
+bi1D.	*CAPTO-CO 25mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1E.	*CAPTO-CO 50mg/25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1F.	CO-ZIDOCAPT 25mg/12.5mg tablet	ace_inhibitor	thiazide_diuretic	
+bi1G.	*CO-ZIDOCAPT 50mg/25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi1H.	NOYADA 5mg/5mL oral solution	ace_inhibitor		
+bi1I.	CAPTOPRIL 5mg/5mL oral solution	ace_inhibitor		
+bi1J.	NOYADA 25mg/5mL oral solution	ace_inhibitor		
+bi1K.	CAPTOPRIL 25mg/5mL oral solution	ace_inhibitor		
+bi2a.	ENALAPRIL MALEATE tablets titration pack	ace_inhibitor		
+bi2b.	ENALAPRIL MALEATE+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi2t.	ENALAPRIL MALEATE 2.5mg tablets	ace_inhibitor		
+bi2u.	ENALAPRIL MALEATE 5mg tablets	ace_inhibitor		
+bi2v.	ENALAPRIL MALEATE 5mg tablets x28	ace_inhibitor		
+bi2w.	ENALAPRIL MALEATE 10mg tablets	ace_inhibitor		
+bi2x.	ENALAPRIL MALEATE 10mg tablets x28	ace_inhibitor		
+bi2y.	ENALAPRIL MALEATE 20mg tablets	ace_inhibitor		
+bi2z.	ENALAPRIL MALEATE 20mg tablets x28	ace_inhibitor		
+bi2..	ENALAPRIL MALEATE	ace_inhibitor		
+bi21.	INNOVACE 2.5mg tablets	ace_inhibitor		
+bi22.	INNOVACE 5mg tablets	ace_inhibitor		
+bi23.	INNOVACE 5mg tablets x28	ace_inhibitor		
+bi24.	INNOVACE 10mg tablets	ace_inhibitor		
+bi25.	INNOVACE 10mg tablets x28	ace_inhibitor		
+bi26.	INNOVACE 20mg tablets	ace_inhibitor		
+bi27.	INNOVACE 20mg tablets x28	ace_inhibitor		
+bi28.	INNOZIDE 20/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi29.	INNOVACE tablets titration pack	ace_inhibitor		
+bi2A.	*ENALAPRIL MALEATE 2.5mg wafer	ace_inhibitor		
+bi2B.	*ENALAPRIL MALEATE 5mg wafer	ace_inhibitor		
+bi2C.	*ENALAPRIL MALEATE 10mg wafer	ace_inhibitor		
+bi2D.	*ENALAPRIL MALEATE 20mg wafer	ace_inhibitor		
+bi2E.	*INNOVACE MELT 2.5mg wafer	ace_inhibitor		
+bi2F.	*INNOVACE MELT 5mg wafer	ace_inhibitor		
+bi2G.	*INNOVACE MELT 10mg wafer	ace_inhibitor		
+bi2H.	*INNOVACE MELT 20mg wafer	ace_inhibitor		
+bi2J.	*PRALENAL 2.5mg tablets	ace_inhibitor		
+bi2K.	*PRALENAL 5mg tablets	ace_inhibitor		
+bi2L.	*PRALENAL 10mg tablets	ace_inhibitor		
+bi2M.	*PRALENAL 20mg tablets	ace_inhibitor		
+bi3a.	*CARACE 20mg tablets 28CP	ace_inhibitor	thiazide_diuretic	
+bi3b.	*CARACE 20mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3c.	*ZESTRIL 2.5mg tablets 28CP	ace_inhibitor		
+bi3d.	*ZESTRIL 2.5mg tablets	ace_inhibitor		
+bi3e.	ZESTRIL 5mg tablets 28CP	ace_inhibitor		
+bi3f.	ZESTRIL 5mg tablets	ace_inhibitor		
+bi3g.	ZESTRIL 10mg tablets 28CP	ace_inhibitor		
+bi3h.	ZESTRIL 10mg tablets	ace_inhibitor		
+bi3i.	ZESTRIL 20mg tablets 28CP	ace_inhibitor		
+bi3j.	ZESTRIL 20mg tablets	ace_inhibitor		
+bi3k.	CARACE 20 PLUS tablets	ace_inhibitor	thiazide_diuretic	
+bi3l.	*CARACE 10 PLUS tablets	ace_inhibitor	thiazide_diuretic	
+bi3m.	*ZESTORETIC tablets 28CP	ace_inhibitor	thiazide_diuretic	
+bi3n.	ZESTORETIC 20/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3p.	LISINOPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3q.	*ZESTRIL 2.5mg starter pack	ace_inhibitor		
+bi3r.	LISINOPRIL 2.5mg tablets starter pack	ace_inhibitor		
+bi3s.	ZESTORETIC 10/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3t.	LISINOPRIL+HYDROCHLOROTHIAZIDE 10mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3u.	*CARALPHA 10/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3v.	*CARALPHA 20/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3w.	LISICOSTAD HCT 20/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3x.	LISICOSTAD HCT 10/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi3y.	LISINOPRIL 1mg/mL oral solution	ace_inhibitor		
+bi3..	LISINOPRIL	ace_inhibitor		
+bi31.	LISINOPRIL 2.5mg tablets	ace_inhibitor		
+bi32.	LISINOPRIL 5mg tablets	ace_inhibitor		
+bi33.	LISINOPRIL 10mg tablets	ace_inhibitor		
+bi34.	LISINOPRIL 20mg tablets	ace_inhibitor		
+bi35.	*CARACE 2.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi36.	*CARACE 5mg tablets 28CP	ace_inhibitor	thiazide_diuretic	
+bi37.	*CARACE 5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi38.	*CARACE 10mg tablets 28CP	ace_inhibitor	thiazide_diuretic	
+bi39.	*CARACE 10mg tablets	ace_inhibitor	thiazide_diuretic	
+bi4..	QUINAPRIL	ace_inhibitor		
+bi41.	QUINAPRIL 5mg tablets	ace_inhibitor		
+bi42.	QUINAPRIL 10mg tablets	ace_inhibitor		
+bi43.	QUINAPRIL 20mg tablets	ace_inhibitor		
+bi44.	ACCUPRO 5mg tablets 28CP	ace_inhibitor		
+bi45.	ACCUPRO 10mg tablets 28CP	ace_inhibitor		
+bi46.	ACCUPRO 20mg tablets 28CP	ace_inhibitor		
+bi47.	ACCURETIC tablets	ace_inhibitor	thiazide_diuretic	
+bi48.	QUINAPRIL+HYDROCHLOROTHIAZIDE 10/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi49.	ACCUPRO 40mg tablets	ace_inhibitor		
+bi4A.	QUINAPRIL 40mg tablets	ace_inhibitor		
+bi4B.	QUINIL 5mg tablets	ace_inhibitor		
+bi4C.	QUINIL 10mg tablets	ace_inhibitor		
+bi4D.	QUINIL 20mg tablets	ace_inhibitor		
+bi4E.	QUINIL 40mg tablets	ace_inhibitor		
+bi4F.	QUINAPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets	ace_inhibitor	thiazide_diuretic	
+bi5..	PERINDOPRIL ERBUMINE	ace_inhibitor		
+bi51.	PERINDOPRIL ERBUMINE 2mg tablets	ace_inhibitor		
+bi52.	PERINDOPRIL ERBUMINE 4mg tablets	ace_inhibitor		
+bi53.	*COVERSYL 2mg tablets	ace_inhibitor		
+bi54.	*COVERSYL 4mg tablets	ace_inhibitor		
+bi55.	PERINDOPRIL ERBUMINE+INDAPAMIDE 4mg/1.25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi56.	COVERSYL PLUS 4mg/1.25mg tablets	ace_inhibitor	thiazide_diuretic	
+bi57.	PERINDOPRIL ERBUMINE 8mg tablets	ace_inhibitor		
+bi58.	*COVERSYL 8mg tablets	ace_inhibitor		
+bi6o.	TRITACE Titration Pack tablets	ace_inhibitor		
+bi6p.	*RANACE 10mg capsules	ace_inhibitor		
+bi6q.	*RANACE 5mg capsules	ace_inhibitor		
+bi6r.	*RANACE 2.5mg capsules	ace_inhibitor		
+bi6s.	*RANACE 1.25mg capsules	ace_inhibitor		
+bi6t.	*LOPACE 2.5mg capsules	ace_inhibitor		
+bi6u.	*LOPACE 5mg capsules	ace_inhibitor		
+bi6v.	*LOPACE 10mg capsules	ace_inhibitor		
+bi6w.	TRITACE 10mg tablets	ace_inhibitor		
+bi6x.	TRITACE 5mg tablets	ace_inhibitor		
+bi6y.	TRITACE 2.5mg tablets	ace_inhibitor		
+bi6z.	TRITACE 1.25mg tablets	ace_inhibitor		
+bi6..	RAMIPRIL	ace_inhibitor		
+bi61.	RAMIPRIL 1.25mg capsules	ace_inhibitor		
+bi62.	RAMIPRIL 2.5mg capsules	ace_inhibitor		
+bi63.	RAMIPRIL 5mg capsules	ace_inhibitor		
+bi64.	*TRITACE 1.25mg capsules	ace_inhibitor		
+bi65.	*TRITACE 2.5mg capsules	ace_inhibitor		
+bi66.	*TRITACE 5mg capsules	ace_inhibitor		
+bi67.	RAMIPRIL 10mg capsules	ace_inhibitor		
+bi68.	*TRITACE 10mg capsules	ace_inhibitor		
+bi69.	RAMIPRIL 2.5mg+5mg+10mg capsules titration pack	ace_inhibitor		
+bi6A.	TRITACE Titration Pack capsules	ace_inhibitor		
+bi6B.	RAMIPRIL 1.25mg tablets	ace_inhibitor		
+bi6C.	RAMIPRIL 2.5mg tablets	ace_inhibitor		
+bi6D.	RAMIPRIL 5mg tablets	ace_inhibitor		
+bi6E.	RAMIPRIL 10mg tablets	ace_inhibitor		
+bi6F.	RAMIPRIL 2.5mg+5mg+10mg tablets titration pack	ace_inhibitor		
+bi6G.	RAMIPRIL 2.5mg/5mL oral solution	ace_inhibitor		
+bi7..	SODIUM FOSINOPRIL	ace_inhibitor		
+bi71.	FOSINOPRIL 10mg tablets	ace_inhibitor		
+bi72.	FOSINOPRIL 20mg tablets	ace_inhibitor		
+bi73.	*STARIL 10mg tablets	ace_inhibitor		
+bi74.	*STARIL 20mg tablets	ace_inhibitor		
+bi8a.	CILAZAPRIL 5mg tablets	ace_inhibitor		
+bi8..	CILAZAPRIL	ace_inhibitor		
+bi81.	CILAZAPRIL 250micrograms tablets	ace_inhibitor		
+bi82.	CILAZAPRIL 500micrograms tablets	ace_inhibitor		
+bi83.	*CILAZAPRIL 1mg tablets	ace_inhibitor		
+bi84.	*CILAZAPRIL 2.5mg tablets	ace_inhibitor		
+bi85.	*VASCACE 250micrograms tablets	ace_inhibitor		
+bi86.	*VASCACE 500micrograms tablets	ace_inhibitor		
+bi87.	*VASCACE 1mg tablets	ace_inhibitor		
+bi88.	*VASCACE 2.5mg tablets	ace_inhibitor		
+bi89.	*VASCACE 5mg tablets	ace_inhibitor		
+bi9z.	TRANDOLAPRIL 4mg capsules	ace_inhibitor		
+bi9..	TRANDOLAPRIL	ace_inhibitor		
+bi91.	TRANDOLAPRIL 500micrograms capsules	ace_inhibitor		
+bi92.	TRANDOLAPRIL 1mg capsules	ace_inhibitor		
+bi93.	TRANDOLAPRIL 2mg capsules	ace_inhibitor		
+bi94.	*GOPTEN 500micrograms capsules	ace_inhibitor		
+bi95.	*GOPTEN 1mg capsules	ace_inhibitor		
+bi96.	*GOPTEN 2mg capsules	ace_inhibitor		
+bi97.	*ODRIK 500micrograms capsules	ace_inhibitor		
+bi98.	*ODRIK 1mg capsules	ace_inhibitor		
+bi99.	*ODRIK 2mg capsules	ace_inhibitor		
+bi9A.	*GOPTEN 4mg capsules	ace_inhibitor		
+biA..	MOEXIPRIL	ace_inhibitor		
+biA1.	MOEXIPRIL HYDROCHLORIDE 7.5mg tablets	ace_inhibitor		
+biA2.	MOEXIPRIL HYDROCHLORIDE 15mg tablets	ace_inhibitor		
+biA3.	PERDIX 7.5mg tablets	ace_inhibitor		
+biA4.	PERDIX 15mg tablets	ace_inhibitor		
+biBx.	IMIDAPRIL HYDROCHLORIDE 20mg tablets	ace_inhibitor		
+biBy.	IMIDAPRIL HYDROCHLORIDE 5mg tablets	ace_inhibitor		
+biBz.	IMIDAPRIL HYDROCHLORIDE 10mg tablets	ace_inhibitor		
+biB..	IMIDAPRIL HYDROCHLORIDE	ace_inhibitor		
+biB1.	TANATRIL 5mg tablets	ace_inhibitor		
+biB2.	TANATRIL 10mg tablets	ace_inhibitor		
+biB3.	TANATRIL 20mg tablets	ace_inhibitor		
+biC..	PERINDOPRIL ARGININE	ace_inhibitor		
+biC1.	COVERSYL ARGININE 2.5mg tablets	ace_inhibitor		
+biC2.	PERINDOPRIL ARGININE 2.5mg tablets	ace_inhibitor		
+biC3.	COVERSYL ARGININE 5mg tablets	ace_inhibitor		
+biC4.	PERINDOPRIL ARGININE 5mg tablets	ace_inhibitor		
+biC5.	COVERSYL ARGININE 10mg tablets	ace_inhibitor		
+biC6.	PERINDOPRIL ARGININE 10mg tablets	ace_inhibitor		
+biC7.	COVERSYL ARGININE PLUS 5mg/1.25mg tablets	ace_inhibitor	thiazide_diuretic	
+biC8.	PERINDOPRIL ARGININE+INDAPAMIDE 5mg/1.25mg tablets	ace_inhibitor	thiazide_diuretic	
+bk3y.	LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk3z.	LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk3..	LOSARTAN	angiotension_receptor_blocker		
+bk31.	LOSARTAN POTASSIUM 25mg tablets	angiotension_receptor_blocker		
+bk32.	LOSARTAN POTASSIUM 50mg tablets	angiotension_receptor_blocker		
+bk33.	COZAAR HALF-STRENGTH 25mg tablets	angiotension_receptor_blocker		
+bk34.	COZAAR 50mg tablets	angiotension_receptor_blocker		
+bk35.	LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 50mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk36.	COZAAR-COMP 50mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk37.	LOSARTAN POTASSIUM 100mg tablets	angiotension_receptor_blocker		
+bk38.	COZAAR 100mg tablets	angiotension_receptor_blocker		
+bk39.	COZAAR-COMP 100mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk3A.	COZAAR-COMP 100mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk3B.	COZAAR 12.5mg tablets	angiotension_receptor_blocker		
+bk3C.	LOSARTAN POTASSIUM 12.5mg tablets	angiotension_receptor_blocker		
+bk3D.	COZAAR 2.5mg/mL oral suspension	angiotension_receptor_blocker		
+bk3E.	LOSARTAN POTASSIUM 2.5mg/mL oral suspension	angiotension_receptor_blocker		
+bk3F.	ZOVENCAL 25mg tablets	angiotension_receptor_blocker		
+bk3G.	ZOVENCAL 50mg tablets	angiotension_receptor_blocker		
+bk3H.	ZOVENCAL 100mg tablets	angiotension_receptor_blocker		
+bk4s.	VALSARTAN 80mg tablets	angiotension_receptor_blocker		
+bk4t.	VALSARTAN 160mg tablets	angiotension_receptor_blocker		
+bk4u.	VALSARTAN 3mg/mL oral solution	angiotension_receptor_blocker		
+bk4v.	VALSARTAN 320mg tablets	angiotension_receptor_blocker		
+bk4w.	VALSARTAN 40mg tablets	angiotension_receptor_blocker		
+bk4x.	VALSARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk4y.	VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk4z.	VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk4..	VALSARTAN	angiotension_receptor_blocker		
+bk41.	VALSARTAN 40mg capsules	angiotension_receptor_blocker		
+bk42.	VALSARTAN 80mg capsules	angiotension_receptor_blocker		
+bk43.	VALSARTAN 160mg capsules	angiotension_receptor_blocker		
+bk44.	DIOVAN 40mg capsules	angiotension_receptor_blocker		
+bk45.	DIOVAN 80mg capsules	angiotension_receptor_blocker		
+bk46.	DIOVAN 160mg capsules	angiotension_receptor_blocker		
+bk47.	CO-DIOVAN 160mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk48.	CO-DIOVAN 160mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk49.	CO-DIOVAN 80mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk4A.	DIOVAN 40mg tablets	angiotension_receptor_blocker		
+bk4B.	DIOVAN 320mg tablets	angiotension_receptor_blocker		
+bk4C.	DIOVAN 3mg/mL oral solution	angiotension_receptor_blocker		
+bk5x.	IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk5y.	IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk5z.	IRBESARTAN+HYDROCHLOROTHIAZIDE 150mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk5..	IRBESARTAN	angiotension_receptor_blocker		
+bk51.	IRBESARTAN 75mg tablets	angiotension_receptor_blocker		
+bk52.	IRBESARTAN 150mg tablets	angiotension_receptor_blocker		
+bk53.	IRBESARTAN 300mg tablets	angiotension_receptor_blocker		
+bk54.	APROVEL 75mg tablets	angiotension_receptor_blocker		
+bk55.	APROVEL 150mg tablets	angiotension_receptor_blocker		
+bk56.	APROVEL 300mg tablets	angiotension_receptor_blocker		
+bk57.	COAPROVEL 150mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk58.	COAPROVEL 300mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk59.	COAPROVEL 300mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk6..	TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE	ace_inhibitor	calcium_channel_blocker	
+bk61.	TRANDOLAPRIL+VERAPAMIL HYDROCHLORIDE 2mg/180mg m/r capsules	ace_inhibitor	calcium_channel_blocker	
+bk62.	*TARKA 2mg/180mg m/r capsules	ace_inhibitor	calcium_channel_blocker	
+bk7z.	CANDESARTAN CILEXETIL 32mg tablets	angiotension_receptor_blocker		
+bk7..	CANDESARTAN CILEXETIL	angiotension_receptor_blocker		
+bk71.	CANDESARTAN CILEXETIL 2mg tablets	angiotension_receptor_blocker		
+bk72.	CANDESARTAN CILEXETIL 4mg tablets	angiotension_receptor_blocker		
+bk73.	CANDESARTAN CILEXETIL 8mg tablets	angiotension_receptor_blocker		
+bk74.	CANDESARTAN CILEXETIL 16mg tablets	angiotension_receptor_blocker		
+bk75.	AMIAS 2mg tablets	angiotension_receptor_blocker		
+bk76.	AMIAS 4mg tablets	angiotension_receptor_blocker		
+bk77.	AMIAS 8mg tablets	angiotension_receptor_blocker		
+bk78.	AMIAS 16mg tablets	angiotension_receptor_blocker		
+bk79.	AMIAS 32mg tablets	angiotension_receptor_blocker		
+bk8w.	TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk8x.	TELMISARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk8y.	TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk8z.	TELMISARTAN 20mg tablets	angiotension_receptor_blocker		
+bk8..	TELMISARTAN	angiotension_receptor_blocker		
+bk81.	TELMISARTAN 40mg tablets	angiotension_receptor_blocker		
+bk82.	TELMISARTAN 80mg tablets	angiotension_receptor_blocker		
+bk83.	MICARDIS 40mg tablets	angiotension_receptor_blocker		
+bk84.	MICARDIS 80mg tablets	angiotension_receptor_blocker		
+bk85.	MICARDIS 20mg tablets	angiotension_receptor_blocker		
+bk86.	MICARDISPLUS 40mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk87.	MICARDISPLUS 80mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk88.	MICARDISPLUS 80mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bk9x.	EPROSARTAN 300mg tablets	angiotension_receptor_blocker		
+bk9y.	EPROSARTAN 400mg tablets	angiotension_receptor_blocker		
+bk9z.	EPROSARTAN 600mg tablets	angiotension_receptor_blocker		
+bk9..	EPROSARTAN	angiotension_receptor_blocker		
+bk91.	TEVETEN 300mg tablets	angiotension_receptor_blocker		
+bk92.	*TEVETEN 400mg tablets	angiotension_receptor_blocker		
+bk93.	TEVETEN 600mg tablets	angiotension_receptor_blocker		
+bkB..	OLMESARTAN	angiotension_receptor_blocker		
+bkB1.	OLMESARTAN MEDOXOMIL 10mg tablets	angiotension_receptor_blocker		
+bkB2.	OLMESARTAN MEDOXOMIL 20mg tablets	angiotension_receptor_blocker		
+bkB3.	OLMESARTAN MEDOXOMIL 40mg tablets	angiotension_receptor_blocker		
+bkB4.	OLMETEC 10mg tablets	angiotension_receptor_blocker		
+bkB5.	OLMETEC 20mg tablets	angiotension_receptor_blocker		
+bkB6.	OLMETEC 40mg tablets	angiotension_receptor_blocker		
+bkCx.	OLMESARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkCy.	OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkCz.	OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkC..	HYDROCHLOROTHIAZIDE + OLMESARTAN	angiotension_receptor_blocker	thiazide_diuretic	
+bkC1.	OLMETEC PLUS 20mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkC2.	OLMETEC PLUS 20mg/25mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkC3.	OLMETEC PLUS 40mg/12.5mg tablets	angiotension_receptor_blocker	thiazide_diuretic	
+bkDx.	EXFORGE 10mg/160mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkDy.	EXFORGE 5mg/160mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkDz.	EXFORGE 5mg/80mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkD..	AMLODIPINE + VALSARTAN	angiotension_receptor_blocker	calcium_channel_blocker	
+bkD1.	AMLODIPINE+VALSARTAN 5mg/80mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkD2.	AMLODIPINE+VALSARTAN 5mg/160mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkD3.	AMLODIPINE+VALSARTAN 10mg/160mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkHx.	OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/10mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkHy.	OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkHz.	OLMESARTAN MEDOXOMIL+AMLODIPINE 20mg/5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkH..	OLMESARTAN+AMLODIPINE	angiotension_receptor_blocker	calcium_channel_blocker	
+bkH1.	SEVIKAR 20mg/5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkH2.	SEVIKAR 40mg/5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkH3.	SEVIKAR 40mg/10mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	
+bkI..	OLMESARTAN+AMLODIPINE+HYDROCHLOROTHIAZIDE	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkI1.	SEVIKAR HCT 20mg/5mg/12.5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkI2.	SEVIKAR HCT 40mg/5mg/12.5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkI3.	SEVIKAR HCT 40mg/10mg/12.5mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkI4.	SEVIKAR HCT 40mg/5mg/25mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkI5.	SEVIKAR HCT 40mg/10mg/25mg tablets	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+bkJ..	AZILSARTAN	angiotension_receptor_blocker		
+bkJ1.	EDARBI 20mg tablets	angiotension_receptor_blocker		
+bkJ2.	AZILSARTAN MEDOXOMIL 20mg tablets	angiotension_receptor_blocker		
+bkJ3.	EDARBI 40mg tablets	angiotension_receptor_blocker		
+bkJ4.	AZILSARTAN MEDOXOMIL 40mg tablets	angiotension_receptor_blocker		
+bkJ5.	EDARBI 80mg tablets	angiotension_receptor_blocker		
+bkJ6.	AZILSARTAN MEDOXOMIL 80mg tablets	angiotension_receptor_blocker		
+bkL..	SACUBITRIL+VALSARTAN	angiotension_receptor_blocker		
+bkL1.	ENTRESTO 24mg/26mg tablets	angiotension_receptor_blocker		
+bkL2.	SACUBITRIL+VALSARTAN 24mg/26mg tablets	angiotension_receptor_blocker		
+bkL3.	ENTRESTO 49mg/51mg tablets	angiotension_receptor_blocker		
+bkL4.	SACUBITRIL+VALSARTAN 49mg/51mg tablets	angiotension_receptor_blocker		
+bkL5.	ENTRESTO 97mg/103mg tablets	angiotension_receptor_blocker		
+bkL6.	SACUBITRIL+VALSARTAN 97mg/103mg tablets	angiotension_receptor_blocker		
+bl5a.	DILTIAZEM HYDROCHLORIDE 90mg m/r tablets	calcium_channel_blocker		
+bl5b.	DILTIAZEM HYDROCHLORIDE 300mg m/r capsules	calcium_channel_blocker		
+bl5c.	DILTIAZEM HYDROCHLORIDE 90mg m/r capsules	calcium_channel_blocker		
+bl5d.	DILTIAZEM HYDROCHLORIDE 120mg m/r capsules	calcium_channel_blocker		
+bl5e.	DILTIAZEM HYDROCHLORIDE 180mg m/r capsules	calcium_channel_blocker		
+bl5f.	DILTIAZEM HYDROCHLORIDE 60mg m/r capsules	calcium_channel_blocker		
+bl5g.	DILTIAZEM HYDROCHLORIDE 240mg m/r capsules	calcium_channel_blocker		
+bl5h.	DILTIAZEM HYDROCHLORIDE 200mg m/r capsules	calcium_channel_blocker		
+bl5i.	DILTIAZEM HYDROCHLORIDE+HYDROCHLOROTHIAZIDE 150mg/12.5mg m/r capsules	calcium_channel_blocker	thiazide_diuretic	
+bl5j.	*ADIZEM-XL PLUS m/r capsules	calcium_channel_blocker		
+bl5k.	*ANGIOZEM CR 90mg m/r tablets	calcium_channel_blocker		
+bl5l.	DILCARDIA SR 60mg m/r capsules	calcium_channel_blocker		
+bl5m.	*ANGIOZEM CR 120mg m/r tablets	calcium_channel_blocker		
+bl5n.	ZEMTARD 300 XL m/r capsules	calcium_channel_blocker		
+bl5o.	VIAZEM XL 120mg m/r capsules	calcium_channel_blocker		
+bl5p.	VIAZEM XL 180mg m/r capsules	calcium_channel_blocker		
+bl5q.	VIAZEM XL 240mg m/r capsules	calcium_channel_blocker		
+bl5r.	VIAZEM XL 300mg m/r capsules	calcium_channel_blocker		
+bl5s.	DILTIAZEM HYDROCHLORIDE 360mg m/r capsules	calcium_channel_blocker		
+bl5t.	VIAZEM XL 360mg m/r capsules	calcium_channel_blocker		
+bl5u.	*CALAZEM 60mg m/r tablets	calcium_channel_blocker		
+bl5v.	DILCARDIA SR 90mg m/r capsules	calcium_channel_blocker		
+bl5w.	DILCARDIA SR 120mg m/r capsules	calcium_channel_blocker		
+bl5x.	ANGITIL XL 240 m/r capsules	calcium_channel_blocker		
+bl5y.	ANGITIL XL 300 m/r capsules	calcium_channel_blocker		
+bl5z.	DILTIAZEM HYDROCHLORIDE 60mg m/r tablets	calcium_channel_blocker		
+bl51.	TILDIEM 60mg tablets	calcium_channel_blocker		
+bl52.	*CALCICARD 60mg tablets	calcium_channel_blocker		
+bl53.	*BRITIAZIM 60mg tablets	calcium_channel_blocker		
+bl54.	ADIZEM-SR 120mg m/r tablets	calcium_channel_blocker		
+bl55.	DILTIAZEM HYDROCHLORIDE 120mg m/r tablets	calcium_channel_blocker		
+bl56.	*ANGIOZEM 60mg tablets	calcium_channel_blocker		
+bl57.	*ADIZEM 60mg tablets	calcium_channel_blocker		
+bl58.	TILDIEM RETARD 90mg m/r tablets	calcium_channel_blocker		
+bl59.	TILDIEM RETARD 120mg m/r tablets	calcium_channel_blocker		
+bl5A.	TILDIEM LA 300mg m/r capsules	calcium_channel_blocker		
+bl5B.	ADIZEM-SR 90mg m/r capsules	calcium_channel_blocker		
+bl5C.	ADIZEM-SR 120mg m/r capsules	calcium_channel_blocker		
+bl5D.	ADIZEM-SR 180mg m/r capsules	calcium_channel_blocker		
+bl5E.	ADIZEM-XL 300mg m/r capsules	calcium_channel_blocker		
+bl5F.	DILZEM SR 60mg m/r capsules	calcium_channel_blocker		
+bl5G.	DILZEM SR 90mg m/r capsules	calcium_channel_blocker		
+bl5H.	DILZEM SR 120mg m/r capsules	calcium_channel_blocker		
+bl5I.	ADIZEM-XL 240mg m/r capsules	calcium_channel_blocker		
+bl5J.	ADIZEM-XL 180mg m/r capsules	calcium_channel_blocker		
+bl5K.	ADIZEM-XL 120mg m/r capsules	calcium_channel_blocker		
+bl5L.	DILZEM-XL 120mg m/r capsules	calcium_channel_blocker		
+bl5M.	DILZEM-XL 180mg m/r capsules	calcium_channel_blocker		
+bl5N.	DILZEM-XL 240mg m/r capsules	calcium_channel_blocker		
+bl5O.	SLOZEM 120mg m/r capsules	calcium_channel_blocker		
+bl5P.	SLOZEM 180mg m/r capsules	calcium_channel_blocker		
+bl5Q.	SLOZEM 240mg m/r capsules	calcium_channel_blocker		
+bl5R.	ANGITIL SR 90 m/r capsules	calcium_channel_blocker		
+bl5S.	ANGITIL SR 120 m/r capsules	calcium_channel_blocker		
+bl5T.	*METAZEM 60mg tablets	calcium_channel_blocker		
+bl5U.	ANGITIL SR 180 m/r capsules	calcium_channel_blocker		
+bl5V.	*CALCICARD CR 90mg m/r tablets	calcium_channel_blocker		
+bl5W.	*CALCICARD CR 120mg m/r tabs	calcium_channel_blocker		
+bl5X.	KENTIAZEM 60mg m/r capsules	calcium_channel_blocker		
+bl5Y.	*OPTIL 60mg m/r tablets	calcium_channel_blocker		
+bl5Z.	TILDIEM LA 200mg m/r capsules	calcium_channel_blocker		
+bl7w.	NICARDIPINE 45mg m/r capsules	calcium_channel_blocker		
+bl7x.	NICARDIPINE 30mg m/r capsules	calcium_channel_blocker		
+bl7y.	NICARDIPINE 20mg capsules	calcium_channel_blocker		
+bl7z.	NICARDIPINE 30mg capsules	calcium_channel_blocker		
+bl7..	NICARDIPINE HYDROCHLORIDE	calcium_channel_blocker		
+bl71.	CARDENE 20mg capsules	calcium_channel_blocker		
+bl72.	CARDENE 30mg capsules	calcium_channel_blocker		
+bl73.	CARDENE SR 30mg m/r capsules	calcium_channel_blocker		
+bl74.	CARDENE SR 45mg m/r capsules	calcium_channel_blocker		
+bl75.	NICARDIPINE 10mg/10mL solution for injection	calcium_channel_blocker		
+bl8a.	*VASAD 10mg capsules	calcium_channel_blocker		
+bl8b.	*CALCILAT 10mg capsules	calcium_channel_blocker		
+bl8c.	*CALCIPINE 5mg capsules	calcium_channel_blocker		
+bl8d.	*CALCIPINE 10mg capsules	calcium_channel_blocker		
+bl8e.	CORACTEN SR 20mg m/r capsules	calcium_channel_blocker		
+bl8f.	*ANGIOPINE 5mg capsules	calcium_channel_blocker		
+bl8g.	*ANGIOPINE 10mg capsules	calcium_channel_blocker		
+bl8h.	*NIFENSAR XL 20mg m/r tablets	calcium_channel_blocker		
+bl8i.	ADALAT LA 30mg m/r tablets	calcium_channel_blocker		
+bl8j.	ADALAT LA 60mg m/r tablets	calcium_channel_blocker		
+bl8k.	CORACTEN SR 10mg m/r capsules	calcium_channel_blocker		
+bl8l.	*CARDILATE MR 20mg m/r tablets	calcium_channel_blocker		
+bl8m.	*ANGIOPINE MR 20mg tablets	calcium_channel_blocker		
+bl8n.	*NIFELEASE 20mg m/r tablets	calcium_channel_blocker		
+bl8o.	*CALANIF 10mg capsules	calcium_channel_blocker		
+bl8p.	*CALANIF 5mg capsules	calcium_channel_blocker		
+bl8q.	*HYPOLAR RETARD 20 m/r tablets	calcium_channel_blocker		
+bl8r.	*NIFEDOTARD 20MR m/r tablets	calcium_channel_blocker		
+bl8s.	*CORODAY MR 20mg m/r tablets	calcium_channel_blocker		
+bl8t.	NIFOPRESS RETARD 20mg m/r tablets	calcium_channel_blocker		
+bl8u.	NIFEDIPINE 10mg m/r capsules	calcium_channel_blocker		
+bl8v.	NIFEDIPINE 20mg m/r capsules	calcium_channel_blocker		
+bl8w.	NIFEDIPINE 10mg m/r tablets	calcium_channel_blocker		
+bl8x.	NIFEDIPINE 30mg m/r tablets	calcium_channel_blocker		
+bl8y.	NIFEDIPINE 60mg m/r tablets	calcium_channel_blocker		
+bl8z.	NIFEDIPINE 20mg m/r tablets	calcium_channel_blocker		
+bl8..	NIFEDIPINE	calcium_channel_blocker		
+bl81.	ADALAT 5mg capsules	calcium_channel_blocker		
+bl82.	ADALAT 10mg capsules	calcium_channel_blocker		
+bl83.	ADALAT RETARD 20mg m/r tablets	calcium_channel_blocker		
+bl84.	ADALAT RETARD 10mg m/r tablets	calcium_channel_blocker		
+bl85.	NIFEDIPINE 5mg capsules	calcium_channel_blocker		
+bl86.	NIFEDIPINE 10mg capsules	calcium_channel_blocker		
+bl87.	ADALAT-IC 200micrograms/2mL injection	calcium_channel_blocker		
+bl88.	NIFEDIPINE-IC 200micrograms/2mL injection	calcium_channel_blocker		
+bl89.	*VASAD 5mg capsules	calcium_channel_blocker		
+bl8A.	ADIPINE MR 20 m/r tablets	calcium_channel_blocker		
+bl8B.	ADIPINE MR 10 m/r tablets	calcium_channel_blocker		
+bl8C.	*UNIPINE XL 30mg m/r tablets	calcium_channel_blocker		
+bl8D.	*NIMODREL MR 10 m/r tablets	calcium_channel_blocker		
+bl8E.	*NIMODREL MR 20 m/r tablets	calcium_channel_blocker		
+bl8F.	NIFEDIPINE 40mg m/r tablets	calcium_channel_blocker		
+bl8G.	*ANGIOPINE 40 LA m/r tablets	calcium_channel_blocker		
+bl8H.	*CARDILATE MR 10mg m/r tablets	calcium_channel_blocker		
+bl8J.	TENSIPINE MR 10 m/r tablets	calcium_channel_blocker		
+bl8K.	TENSIPINE MR 20 m/r tablets	calcium_channel_blocker		
+bl8L.	FORTIPINE LA40 m/r tablets	calcium_channel_blocker		
+bl8M.	ADALAT LA 20mg m/r tablets	calcium_channel_blocker		
+bl8O.	*SLOFEDIPINE 20mg m/r tablets	calcium_channel_blocker		
+bl8P.	*ANGIOPINE MR 10mg m/r tablets	calcium_channel_blocker		
+bl8Q.	GENALAT RETARD 10mg m/r tablets	calcium_channel_blocker		
+bl8R.	GENALAT RETARD 20mg m/r tablets	calcium_channel_blocker		
+bl8S.	NIFEDIPRESS MR 10 m/r tablets	calcium_channel_blocker		
+bl8T.	NIVATEN RETARD 10mg m/r tablets	calcium_channel_blocker		
+bl8U.	NIFEDIPRESS MR 20 m/r tablets	calcium_channel_blocker		
+bl8V.	NIFEDIPINE 30mg m/r capsules	calcium_channel_blocker		
+bl8W.	NIFEDIPINE 60mg m/r capsules	calcium_channel_blocker		
+bl8X.	CORACTEN XL 30mg m/r capsules	calcium_channel_blocker		
+bl8Y.	CORACTEN XL 60mg m/r capsules	calcium_channel_blocker		
+bl8Z.	NIVATEN RETARD 20mg m/r tablets	calcium_channel_blocker		
+bl9z.	*PRENYLAMINE 60mg tablets	calcium_channel_blocker		
+bl9..	*PRENYLAMINE	calcium_channel_blocker		
+bl91.	*SYNADRIN 60mg tablets	calcium_channel_blocker		
+bla..	ISRADIPINE	calcium_channel_blocker		
+bla1.	ISRADIPINE 2.5mg tablets	calcium_channel_blocker		
+bla2.	*PRESCAL 2.5mg tablets	calcium_channel_blocker		
+blb..	AMLODIPINE	calcium_channel_blocker		
+blb1.	AMLODIPINE 5mg tablets	calcium_channel_blocker		
+blb2.	AMLODIPINE 10mg tablets	calcium_channel_blocker		
+blb3.	ISTIN 5mg tablets	calcium_channel_blocker		
+blb4.	ISTIN 10mg tablets	calcium_channel_blocker		
+blb5.	*AMLOSTIN 5mg tablets	calcium_channel_blocker		
+blb6.	*AMLOSTIN 10mg tablets	calcium_channel_blocker		
+blb7.	AMLODIPINE 1mg/mL oral solution	calcium_channel_blocker		
+blb8.	AMLODIPINE 2mg/mL oral solution	calcium_channel_blocker		
+blca.	FELOTENS XL 5mg m/r tablets	calcium_channel_blocker		
+blcb.	FELOTENS XL 10mg m/r tablets	calcium_channel_blocker		
+blcc.	FELOGEN XL 5mg m/r tablets	calcium_channel_blocker		
+blcd.	FELENDIL XL 5mg m/r tablets	calcium_channel_blocker		
+blce.	FELENDIL XL 10mg m/r tablets	calcium_channel_blocker		
+blcf.	KELOC SR 5mg m/r tablets	calcium_channel_blocker		
+blcg.	KELOC SR 10mg m/r tablets	calcium_channel_blocker		
+blch.	FELOGEN XL 10mg m/r tablets	calcium_channel_blocker		
+blci.	VASCALPHA 5mg m/r tablets	calcium_channel_blocker		
+blcj.	VASCALPHA 10mg m/r tablets	calcium_channel_blocker		
+blck.	CARDIOPLEN XL 5mg m/r tablets	calcium_channel_blocker		
+blcl.	CARDIOPLEN XL 10mg m/r tablets	calcium_channel_blocker		
+blcm.	NEOFEL XL 5mg m/r tablets	calcium_channel_blocker		
+blcn.	NEOFEL XL 10mg m/r tablets	calcium_channel_blocker		
+blco.	PARMID XL 5mg m/r tablets	calcium_channel_blocker		
+blcp.	PARMID XL 10mg m/r tablets	calcium_channel_blocker		
+blcq.	PINEFELD XL 10mg m/r tablets	calcium_channel_blocker		
+blcr.	CARDIOPLEN XL 2.5mg m/r tablets	calcium_channel_blocker		
+blcs.	NEOFEL XL 2.5mg m/r tablets	calcium_channel_blocker		
+blct.	FELOTENS XL 2.5mg m/r tablets	calcium_channel_blocker		
+blc..	FELODIPINE	calcium_channel_blocker		
+blc1.	FELODIPINE 5mg m/r tablets	calcium_channel_blocker		
+blc2.	FELODIPINE 10mg m/r tablets	calcium_channel_blocker		
+blc3.	PLENDIL 5mg m/r tablets	calcium_channel_blocker		
+blc4.	PLENDIL 10mg m/r tablets	calcium_channel_blocker		
+blc5.	FELODIPINE 2.5mg m/r tablets	calcium_channel_blocker		
+blc6.	PLENDIL 2.5mg m/r tablets	calcium_channel_blocker		
+blc7.	CABREN 2.5mg m/r tablets	calcium_channel_blocker		
+blc8.	CABREN 5mg m/r tablets	calcium_channel_blocker		
+blc9.	CABREN 10mg m/r tablets	calcium_channel_blocker		
+ble..	LACIDIPINE	calcium_channel_blocker		
+ble1.	LACIDIPINE 2mg tablets	calcium_channel_blocker		
+ble2.	LACIDIPINE 4mg tablets	calcium_channel_blocker		
+ble3.	MOTENS 2mg tablets	calcium_channel_blocker		
+ble4.	MOTENS 4mg tablets	calcium_channel_blocker		
+ble5.	MOLAP 4mg tablets	calcium_channel_blocker		
+blg..	NISOLDIPINE	calcium_channel_blocker		
+blg1.	*NISOLDIPINE 10mg m/r tablets	calcium_channel_blocker		
+blg2.	*NISOLDIPINE 20mg m/r tablets	calcium_channel_blocker		
+blg3.	*NISOLDIPINE 30mg m/r tablets	calcium_channel_blocker		
+blg4.	*SYSCOR MR 10mg m/r tablets	calcium_channel_blocker		
+blg5.	*SYSCOR MR 20mg m/r tablets	calcium_channel_blocker		
+blg6.	*SYSCOR MR 30mg m/r tablets	calcium_channel_blocker		
+blh..	LERCANIDIPINE HYDROCHLORIDE	calcium_channel_blocker		
+blh1.	LERCANIDIPINE HYDROCHLORIDE 10mg tablets	calcium_channel_blocker		
+blh2.	ZANIDIP 10mg tablets	calcium_channel_blocker		
+blh3.	LERCANIDIPINE HYDROCHLORIDE 20mg tablets	calcium_channel_blocker		
+blh4.	ZANIDIP 20mg tablets	calcium_channel_blocker		
+bli..	MIBEFRADIL	calcium_channel_blocker		
+bli1.	*MIBEFRADIL 50mg tablets	calcium_channel_blocker		
+bli2.	*MIBEFRADIL 100mg tablets	calcium_channel_blocker		
+bli3.	*POSICOR 50mg tablets	calcium_channel_blocker		
+bli4.	*POSICOR 100mg tablets	calcium_channel_blocker		
+blja.	DILTIAZEM HYDROCHLORIDE XL 300mg m/r capsules	calcium_channel_blocker		
+bljb.	RETALZEM MR 60mg m/r tablets	calcium_channel_blocker		
+bljc.	UARD 120XL m/r capsules	calcium_channel_blocker		
+bljd.	UARD 180XL m/r capsules	calcium_channel_blocker		
+blje.	UARD 240XL m/r capsules	calcium_channel_blocker		
+bljf.	UARD 300XL m/r capsules	calcium_channel_blocker		
+blj..	DILTIAZEM HYDROCHLORIDE 2	calcium_channel_blocker		
+blj1.	ZEMTARD 120 XL m/r capsules	calcium_channel_blocker		
+blj2.	ZEMTARD 180 XL m/r capsules	calcium_channel_blocker		
+blj3.	ZEMTARD 240 XL m/r capsules	calcium_channel_blocker		
+blj4.	*OPTIL SR 90 m/r capsules	calcium_channel_blocker		
+blj5.	*OPTIL SR 120 m/r capsules	calcium_channel_blocker		
+blj6.	*OPTIL SR 180 m/r capsules	calcium_channel_blocker		
+blj7.	*OPTIL XL 240 m/r capsules	calcium_channel_blocker		
+blj8.	*OPTIL XL 300 m/r capsules	calcium_channel_blocker		
+blj9.	DILCARDIA XL 120mg m/r capsules	calcium_channel_blocker		
+bljA.	DILCARDIA XL 180mg m/r capsules	calcium_channel_blocker		
+bljB.	DILCARDIA XL 240mg m/r capsules	calcium_channel_blocker		
+bljC.	BI-CARZEM SR 60mg m/r capsules	calcium_channel_blocker		
+bljD.	BI-CARZEM SR 90mg m/r capsules	calcium_channel_blocker		
+bljE.	BI-CARZEM SR 120mg m/r capsules	calcium_channel_blocker		
+bljF.	*ZILDIL SR 60mg m/r capsules	calcium_channel_blocker		
+bljG.	*ZILDIL SR 90mg m/r capsules	calcium_channel_blocker		
+bljH.	*ZILDIL SR 120mg m/r capsules	calcium_channel_blocker		
+bljJ.	SLOZEM 300mg m/r capsules	calcium_channel_blocker		
+bljK.	BI-CARZEM XL 300mg m/r capsules	calcium_channel_blocker		
+bljL.	BI-CARZEM XL 240mg m/r capsules	calcium_channel_blocker		
+bljM.	ZEMRET 180 XL m/r capsules	calcium_channel_blocker		
+bljN.	ZEMRET 240 XL m/r capsules	calcium_channel_blocker		
+bljO.	ZEMRET 300 XL m/r capsules	calcium_channel_blocker		
+bljP.	ADIZEM-XL 200mg m/r capsules	calcium_channel_blocker		
+bljQ.	*DISOGRAM SR 60mg m/r capsules	calcium_channel_blocker		
+bljR.	*DISOGRAM SR 90mg m/r capsules	calcium_channel_blocker		
+bljS.	DISOGRAM SR 120mg m/r capsules	calcium_channel_blocker		
+bljT.	DISOGRAM SR 180mg m/r capsules	calcium_channel_blocker		
+bljU.	DISOGRAM SR 240mg m/r capsules	calcium_channel_blocker		
+bljV.	DISOGRAM SR 300mg m/r capsules	calcium_channel_blocker		
+bljW.	*HORIZEM SR 90mg m/r capsules	calcium_channel_blocker		
+bljX.	*HORIZEM SR 120mg m/r capsules	calcium_channel_blocker		
+bljY.	DILTIAZEM HYDROCHLORIDE XL 180mg m/r capsules	calcium_channel_blocker		
+bljZ.	DILTIAZEM HYDROCHLORIDE XL 240mg m/r capsules	calcium_channel_blocker		
+blla.	HYPOLAR RETARD 10mg m/r tablets	calcium_channel_blocker		
+bllb.	VALNI 20 RETARD 20mg m/r tablets	calcium_channel_blocker		
+bllc.	ADIPINE XL 30mg m/r tablets	calcium_channel_blocker		
+blld.	ADIPINE XL 60mg m/r tablets	calcium_channel_blocker		
+blle.	NIMODREL XL 60mg tablets	calcium_channel_blocker		
+bllf.	NIMODREL XL 30mg tablets	calcium_channel_blocker		
+bllg.	VALNI XL 30mg m/r tablets	calcium_channel_blocker		
+bllh.	VALNI XL 60mg m/r tablets	calcium_channel_blocker		
+blli.	NIDEF 30mg m/r tablets	calcium_channel_blocker		
+bllj.	NIDEF 60mg m/r tablets	calcium_channel_blocker		
+bllk.	ADANIF XL 30mg m/r tablets	calcium_channel_blocker		
+blll.	ADANIF XL 60mg m/r tablets	calcium_channel_blocker		
+bll..	NIFEDIPINE [2]	calcium_channel_blocker		
+bll1.	SLOFEDIPINE XL 30mg m/r tablets	calcium_channel_blocker		
+bll2.	SLOFEDIPINE XL 60mg m/r tablets	calcium_channel_blocker		
+bll3.	*ADIPINE LA 30 m/r tablets	calcium_channel_blocker		
+bll4.	*ADIPINE LA 60 m/r tablets	calcium_channel_blocker		
+bll5.	HYPOLAR XL 30 m/r tablets	calcium_channel_blocker		
+bll6.	CALCHAN MR 20mg m/r tablets	calcium_channel_blocker		
+bll7.	CALCHAN MR 10mg m/r tablets	calcium_channel_blocker		
+bll8.	KENTIPINE MR 10mg m/r tablets	calcium_channel_blocker		
+bll9.	KENTIPINE MR 20mg m/r tablets	calcium_channel_blocker		
+bp5..	XAMOTEROL [SYMPATHOMIMETIC]	beta_blocker		
+bp51.	*XAMOTEROL 200mg tablets	beta_blocker		
+bp52.	*CORWIN 200mg tablets	beta_blocker		
