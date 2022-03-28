@@ -43,10 +43,14 @@ Prescription data from UK Biobank are provided in the gp_scripts file. This cont
 
 &nbsp;
 
-## Treatment/medication codelists for variable 20003 (verbal interview)
+## Codelists for UK Biobank variables 20002 (verbal interview: non-cancer illnesses), 20003 (verbal interview: treatment/medications), and 20004 (verbal interview: operations)
 ### Codelist contents
+* **20002_cvd**: codes for cardiovascular disease, taken from https://www.ahajournals.org/doi/pdf/10.1161/JAHA.117.007621.
+* **20002_diabetes**: codes for any time of diabetes mellitus including gestational diabetes, plus diabetes-specific complications.
+* **20002_hypertension**: codes for hypertension.
+* **20002_pcos**: code for polycystic ovarian syndrome.
 * **20003_diabetes_meds**: glucose-lowering medications (including insulin) plus glucagon.
 * **20003_blood_pressure_meds**: blood pressure medications (classes included: ACE-inhibitors, angiotensin receptor blockers, beta-blockers, calcium channel inhibitors, thiazide-like diuretics).
-
+* **20004_cvd**: codes for operations indicative of cardiovascular disease, taken from https://www.ahajournals.org/doi/pdf/10.1161/JAHA.117.007621
 
 
