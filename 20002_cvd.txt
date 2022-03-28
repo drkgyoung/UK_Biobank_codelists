@@ -1,0 +1,35 @@
+Code	Description
+1067	peripheral vascular disease
+1074	angina
+1075	heart attack/myocardial infarction
+1076	heart failure/pulmonary odema
+1077	heart arrhythmia
+1078	heart valve problem/heart murmur
+1079	cardiomyopathy
+1081	stroke
+1082	transient ischemic attack
+1086	subarachnoid haemorrhage
+1087	leg claudication/ intermittent claudication
+1425	cerebral aneurysm
+1426	myocarditis
+1471	atrial fibrillation
+1479	rheumatic fever
+1483	atrial flutter
+1484	wolff parkinson white syndrome
+1485	irregular heart beat
+1486	sick sinus syndrome
+1487	supraventricular tachycardia
+1488	mitral valve prolapse
+1489	mitral stenosis
+1490	aortic stenosis
+1491	brain haemorrhage
+1492	aortic aneurysm
+1583	ischaemic stroke
+1584	mitral valve disease
+1585	mitral regurgitation/incompetence
+1586	aortic valve disease
+1587	aortic regurgitation/incompetence
+1588	hypertroophic cardiomyopathy
+1589	percarditis
+1590	pericardial effusion
+1591	aortic aneurysm rupture
