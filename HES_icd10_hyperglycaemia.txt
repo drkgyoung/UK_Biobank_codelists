@@ -1,0 +1,2 @@
+Code	Description
+R73	Elevated blood glucose level
