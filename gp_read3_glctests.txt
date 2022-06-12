@@ -1,0 +1,69 @@
+Code	Description	type
+44f..	Serum glucose level	random
+44f0.	Serum random glucose level	random
+44f1.	Serum fasting glucose level	fasting
+44f2.	Serum 2-hr post-prandial glucose level	ogtt
+44f6.	120 minute serum glucose level	ogtt
+44g..	Plasma glucose level	random
+44g0.	Plasma random glucose level	random
+44g1.	Plasma fasting glucose level	fasting
+44g2.	Plasma 2-hr post-prandial glucose level	ogtt
+44g6.	120 minute plasma glucose level	ogtt
+44T..	Blood glucose method	random
+44T1.	Random blood sugar	random
+44T10	Random blood sugar normal	random
+44T11	Random blood sugar low	random
+44T12	Random blood sugar raised	random
+44T2.	Fasting blood sugar	fasting
+44T3.	2 hours post food blood sugar	ogtt
+44TA.	Plasma glucose	random
+44TH.	120 minute blood glucose level	ogtt
+44TJ.	Blood glucose level	random
+44TJ0	Blood glucose range before breakfast	random
+44TJ1	Blood glucose range after breakfast	random
+44TJ2	Bedtime blood glucose range	random
+44TJ3	Blood glucose range before lunch	random
+44TJ4	Blood glucose range after lunch	random
+44TJ5	Blood glucose range before evening meal	random
+44TJ6	Blood glucose range after evening meal	random
+44TJ7	Overnight blood glucose range	random
+44TJ8	Baseline blood glucose level	random
+44TJ9	Blood glucose level after evening meal	random
+44TJA	Blood glucose level during night	random
+44TK.	Fasting blood glucose level	fasting
+44TM.	Blood glucose series	random
+44TZ.	Blood glucose method NOS	random
+44U..	Blood glucose result	random
+44U1.	Blood glucose 0-1.4 mmol/L	random
+44U2.	Blood glucose 1.5-2.4 mmol/L	random
+44U3.	Blood glucose 2.5-4.9 mmol/L	random
+44U4.	Blood glucose 5-6.9 mmol/L	random
+44U5.	Blood glucose 7-9.9 mmol/L	random
+44U6.	Blood glucose 10-13.9 mmol/L	random
+44U7.	2 hour post-prandial blood glucose level	ogtt
+44U8.	Blood glucose normal	random
+44U9.	Blood glucose abnormal	random
+44Uz.	Blood glucose raised NOS	random
+44UZ.	Blood glucose 14+ mmol/L	random
+X772z	Blood glucose level	random
+Xa973	Post prandial blood sugar	random
+Xabhy	Baseline blood glucose level	random
+Xabmv	Blood glucose level after evening meal	random
+Xabmw	Blood glucose level during night	random
+XaENB	120 minute blood glucose level	ogtt
+XaEOV	120 minute plasma glucose level	ogtt
+XaEOZ	120 minute serum glucose level	ogtt
+XaJmX	Blood glucose series	random
+XaXcf	Overnight blood glucose range	random
+XaXcx	Bedtime blood glucose range	random
+XaXda	Blood glucose range after evening meal	random
+XaXdW	Blood glucose range before breakfast	random
+XaXdX	Blood glucose range after lunch	random
+XaXdY	Blood glucose range before evening meal	random
+XaXdZ	Blood glucose range after breakfast	random
+XaXee	Blood glucose range before lunch	random
+XE25X	2 hours post food blood sugar	ogtt
+XE25Y	Blood glucose result	random
+XE2mp	Random blood sugar	random
+XE2mq	Fasting blood sugar	fasting
+XM0ly	Plasma glucose level	random
