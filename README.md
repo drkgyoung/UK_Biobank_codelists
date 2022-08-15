@@ -2,6 +2,11 @@
 
 &nbsp;
 
+## Defining whether an individual has a pre-existing diagnosis of diabetes at enrolment
+See file 'enrolment_diabetes_diagnosis.txt' which lists the UK Biobank variables (and codelists from this repository to be used with these variables) required to define diabetes status at UK Biobank enrolment.
+
+&nbsp;
+
 ## HES codelists
 ### Codelist contents
 * **hes_icd9_diabetes** and **hes_icd10_diabetes** are codes for any type of diabetes mellitus
