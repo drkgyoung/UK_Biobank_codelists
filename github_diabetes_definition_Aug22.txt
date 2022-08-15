@@ -1,0 +1,10 @@
+UK Biobank field	Which assessment centre visit	Values used to indicate pre-existing or previous diabetes diagnosis at enrolment (baseline assessment at first assessment centre visit)
+2443 Diabetes diagnosed by a doctor	First	1 Yes
+6148 Eye problems/ disorders	First	1 Diabetes related eye disease
+6153 Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	First	3 Insulin
+6177 Medication for cholesterol, blood pressure or diabetes	First	3 Insulin
+20002 Non-cancer illness code, self-reported	First	Any diabetes code including diabetes-specific complications (see 20002_diabetes.txt)
+20002 Non-cancer illness code, self-reported	Second and third	Any diabetes code including diabetes-specific complications a where diagnosis date was earlier or in the same year as the first assessment visit
+20003 Treatment/ medication code	First	Any diabetes medication code (see 20003_diabetes_meds.txt)
+Linked primary care data	N/A, event/issue date ≤ first assessment centre visit	Any diabetes code including diabetes-specific complications and processes of care, prescription for diabetes medication; or HbA1c ≥48 mmol/mol, fasting glucose ≥7.0 mmol/L or random glucose/2-hour postprandial glucose ≥11.1 mmol/L (see gp_read2_diabetes.txt, gp_read3_diabetes.txt, gp_read2_diabetes_other_types.txt, gp_read3_diabetes_other_types.txt, gp_drugname_diabetes_meds.txt, gp_read2drugs_diabetes_meds.txt, gp_drugname_glucagon.txt, gp_read2drugs_glucagon.txt, gp_drugname_test_strips.txt, gp_read2drugs_test_strips.txt, gp_read2_hba1c.txt, gp_read3_hba1c.txt, gp_read2_glctests.txt and gp_read3_glctests.txt)
+Linked secondary care data	N/A, episode start date ≤ first assessment centre visit	Any diabetes code including diabetes-specific complications (see hes_icd9_diabetes and hes_icd10_diabetes)
