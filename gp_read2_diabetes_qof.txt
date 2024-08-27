@@ -1,0 +1,60 @@
+read_2	Term
+C10..	Diabetes mellitus
+C109J	Insulin treated Type 2 diabetes mellitus
+C109K	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+C10E.	Type 1 diabetes mellitus
+C10E0	Type 1 diabetes mellitus with renal complications
+C10E1	Type 1 diabetes mellitus with ophthalmic complications
+C10E2	Type 1 diabetes mellitus with neurological complications
+C10E3	Type 1 diabetes mellitus with multiple complications
+C10E4	Unstable type 1 diabetes mellitus
+C10E5	Type 1 diabetes mellitus with ulcer
+C10E6	Type 1 diabetes mellitus with gangrene
+C10E7	Type 1 diabetes mellitus with retinopathy
+C10E8	Type 1 diabetes mellitus - poor control
+C10E9	Type 1 diabetes mellitus maturity onset
+C10EA	Type 1 diabetes mellitus without complication
+C10EB	Type 1 diabetes mellitus with mononeuropathy
+C10EC	Type 1 diabetes mellitus with polyneuropathy
+C10ED	Type 1 diabetes mellitus with nephropathy
+C10EE	Type 1 diabetes mellitus with hypoglycaemic coma
+C10EF	Type 1 diabetes mellitus with diabetic cataract
+C10EG	Type 1 diabetes mellitus with peripheral angiopathy
+C10EH	Type 1 diabetes mellitus with arthropathy
+C10EJ	Type 1 diabetes mellitus with neuropathic arthropathy
+C10EK	Type 1 diabetes mellitus with persistent proteinuria
+C10EL	Type 1 diabetes mellitus with persistent microalbuminuria
+C10EM	Type 1 diabetes mellitus with ketoacidosis
+C10EN	Type 1 diabetes mellitus with ketoacidotic coma
+C10EP	Type 1 diabetes mellitus with exudative maculopathy
+C10EQ	Type 1 diabetes mellitus with gastroparesis
+C10ER	Latent autoimmune diabetes mellitus in adult
+C10F.	Type 2 diabetes mellitus
+C10F0	Type 2 diabetes mellitus with renal complications
+C10F1	Type 2 diabetes mellitus with ophthalmic complications
+C10F2	Type 2 diabetes mellitus with neurological complications
+C10F3	Type 2 diabetes mellitus with multiple complications
+C10F4	Type 2 diabetes mellitus with ulcer
+C10F5	Type 2 diabetes mellitus with gangrene
+C10F6	Type 2 diabetes mellitus with retinopathy
+C10F7	Type 2 diabetes mellitus - poor control
+C10F9	Type 2 diabetes mellitus without complication
+C10FA	Type 2 diabetes mellitus with mononeuropathy
+C10FB	Type 2 diabetes mellitus with polyneuropathy
+C10FC	Type 2 diabetes mellitus with nephropathy
+C10FD	Type 2 diabetes mellitus with hypoglycaemic coma
+C10FE	Type 2 diabetes mellitus with diabetic cataract
+C10FF	Type 2 diabetes mellitus with peripheral angiopathy
+C10FG	Type 2 diabetes mellitus with arthropathy
+C10FH	Type 2 diabetes mellitus with neuropathic arthropathy
+C10FJ	Insulin treated Type 2 diabetes mellitus
+C10FK	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+C10FL	Type 2 diabetes mellitus with persistent proteinuria
+C10FM	Type 2 diabetes mellitus with persistent microalbuminuria
+C10FN	Type 2 diabetes mellitus with ketoacidosis
+C10FP	Type 2 diabetes mellitus with ketoacidotic coma
+C10FQ	Type 2 diabetes mellitus with exudative maculopathy
+C10FR	Type 2 diabetes mellitus with gastroparesis
+C10P.	Diabetes mellitus in remission
+C10P0	Type I diabetes mellitus in remission
+C10P1	Type II diabetes mellitus in remission
