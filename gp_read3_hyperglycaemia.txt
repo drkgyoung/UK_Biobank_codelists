@@ -1,0 +1,81 @@
+Code	Description
+1435.	H/O: Admission in last year for hyperglycaemic disorder
+21269	Impaired glucose tolerance resolved
+44U6.	Blood glucose 10-13.9 mmol/L
+44U9.	Blood glucose abnormal
+44Uz.	Blood glucose raised NOS
+44UZ.	Blood glucose 14+ mmol/L
+44V2.	Glucose tol. test impaired
+44V3.	Glucose tol. test diabetic
+6AC..	Review of impaired glucose tolerance
+8HlS.	Referral for management of impaired glucose tolerance
+9m9..	Impaired glucose tolerance monitoring administration
+9m90.	Impaired glucose tolerance monitoring invitation
+9m900	Impaired glucose tolerance monitoring invitation first letter
+9m901	Impaired glucose tolerance monitoring invitation second letter
+9m902	Impaired glucose tolerance monitoring invitation third letter
+9mX..	Impaired glucose regulation monitoring invitation
+9mX0.	Impaired glucose regulation monitoring invitation first letter
+9mX1.	Impaired glucose regulation monitoring invitation second letter
+9mX2.	Impaired glucose regulation monitoring invitation third letter
+9mX3.	Impaired glucose regulation monitoring telephone invitation
+9mX4.	Impaired glucose regulation monitoring verbal invitation
+9NS04	Referral for impaired glucose tolerance management offered
+C11y2	IGT - Impaired glucose tolerance
+C11y3	Impaired fasting glucose
+C11y4	Impaired glucose regulation
+C317.	Non-diabetic hyperglycaemia
+L188.	Abnormal glucose tolerance test during pregnancy, childbirth and the puerperium
+L1880	Abnormal glucose tolerance test - unspecified whether during pregnancy or the puerperium
+L1881	Abnormal glucose tolerance test during pregnancy - baby delivered
+L1882	Abnormal glucose tolerance test in the puerperium - baby delivered during current episode of care
+L1883	Abnormal glucose tolerance test during pregnancy - baby not yet delivered
+L1884	Abnormal glucose tolerance test in the puerperium - baby delivered during previous episode of care
+L188z	Abnormal glucose tolerance test during pregnancy, childbirth or the puerperium NOS
+R102.	[D]Impaired glucose tolerance test
+R1057	[D]Glucose, blood level abnormal
+R10D.	[D]Elevated blood glucose level
+R10D0	[D]Impaired fasting glucose
+R10D1	Metabolic stress hyperglycaemia
+R10E.	[D]Impaired glucose tolerance
+Ryu8A	[X]Hyperglycaemia, unspecified
+X40J1	Disorder of glucose regulation
+X40J2	Hyperglycaemia
+X40J3	Hyperglycaemic disorder
+X40Jb	Diabetic severe hyperglycaemia
+X40Je	Acute hyperglycaemia
+X40Jg	Metabolic stress hyperglycaemia
+X40Jh	IGT - Impaired glucose tolerance
+X40Ji	Hyperglycaemic disorder in pregnancy
+X40Jl	IGT - Impaired glucose tolerance in pregnancy
+X40Js	Rebound hyperglycaemia
+XaaeP	Non-diabetic hyperglycaemia
+XaaEY	Frequency of hyperglycaemic episodes
+XaaI3	Time since last hyperglycaemic episode
+XaBwk	H/O: Admission in last year for hyperglycaemic disorder
+Xabxi	Impaired glucose regulation monitoring invitation
+Xabxj	Impaired glucose regulation monitoring invitation first letter
+Xabxk	Impaired glucose regulation monitoring invitation second letter
+Xabxl	Impaired glucose regulation monitoring invitation third letter
+Xabxm	Impaired glucose regulation monitoring telephone invitation
+Xabxn	Impaired glucose regulation monitoring verbal invitation
+XaFxf	[D]Elevated blood glucose level
+XaInl	[D]Impaired glucose tolerance
+XaIRK	[D]Impaired fasting glucose
+XaIRY	Impaired fasting glucose
+XaNW1	Review of impaired glucose tolerance
+XaQxO	Impaired glucose tolerance monitoring invitation
+XaQxP	Impaired glucose tolerance monitoring invitation first letter
+XaQxQ	Impaired glucose tolerance monitoring invitation second letter
+XaQxR	Impaired glucose tolerance monitoring invitation third letter
+XaQxS	Impaired glucose tolerance monitoring administration
+XaVvt	Dietary advice for impaired glucose tolerance
+XaXR6	Referral for impaired glucose tolerance management offered
+XaXR7	Referral for management of impaired glucose tolerance
+XaYtW	Impaired glucose tolerance resolved
+XaZcN	Hyperglycaemia education
+XaZfW	Impaired glucose regulation
+XE0yU	Pregnancy with abnormal glucose tolerance test
+XE28s	(Blood sugar result [& glucose]) or (plasma glucose level) or (hyperglycaemia)
+XM1ES	Abnormal glucose tolerance test
+XS7Nb	[D]Glucose, blood level abnormal

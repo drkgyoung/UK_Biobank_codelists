@@ -1,0 +1,14 @@
+Code	Description
+1069	heart surgery
+1070	coronary angioplasty (ptca) +/- stent
+1095 	artery bypass grafts
+1097	heart valve surgery
+1098	heart transplant
+1099	aortic valve repair/replacement
+1100	mitral valve repair/replacement
+1101	other valve repair/replacement
+1102	fem-pop bypass/leg artery bypass
+1103	leg artery aneurysm repair
+1108	leg artery angioplasty +/- stent
+1523	triple heart bypass
+1553	cardiac ablation

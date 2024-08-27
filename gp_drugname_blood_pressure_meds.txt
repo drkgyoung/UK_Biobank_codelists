@@ -1,0 +1,366 @@
+Name	Class1	Class2	Class3
+Accupro	ace_inhibitor		
+Accuretic	ace_inhibitor	thiazide_diuretic	
+Acebutolol	beta_blocker		
+Acepril	ace_inhibitor		
+Acezide	ace_inhibitor	thiazide_diuretic	
+Actelsar	angiotension_receptor_blocker	thiazide_diuretic	
+Adalat	calcium_channel_blocker		
+Adanif	calcium_channel_blocker		
+Adipine	calcium_channel_blocker		
+Adizem	calcium_channel_blocker		
+Aldactide	thiazide_diuretic		
+Alkapamid	thiazide_diuretic		
+Amias	angiotension_receptor_blocker		
+Amil-Co	thiazide_diuretic		
+Amilco	thiazide_diuretic		
+Amilmaxco	thiazide_diuretic		
+Amlodipine	calcium_channel_blocker		
+Amlostin	calcium_channel_blocker		
+Angilol	beta_blocker		
+Angiopine	calcium_channel_blocker		
+Angiotensin-Converting Enzyme Inhibitor	ace_inhibitor		
+Angiotension Converting Enzyme Inhibitor	ace_inhibitor		
+Angiozem	calcium_channel_blocker		
+Angitil	calcium_channel_blocker		
+Antipressan	beta_blocker		
+Aprinox	thiazide_diuretic		
+Aprovel	angiotension_receptor_blocker		
+Apsolol	beta_blocker		
+Apsolox	beta_blocker		
+Arbralene	beta_blocker		
+Atacand	angiotension_receptor_blocker		
+Atenix	beta_blocker		
+Atenix co	beta_blocker	thiazide_diuretic	
+Atenixco	beta_blocker	thiazide_diuretic	
+Atenolol	beta_blocker		
+Avapro	angiotension_receptor_blocker		
+Avlocardyl	beta_blocker		
+Azilsartan	angiotension_receptor_blocker		
+B-Blocker	beta_blocker		
+Bedranol	beta_blocker		
+Bendrofluazide	thiazide_diuretic		
+Benicar	angiotension_receptor_blocker		
+Berkatens	calcium_channel_blocker		
+Berkolol	beta_blocker		
+Berkozide	thiazide_diuretic		
+Beta-Adalat	beta_blocker	calcium_channel_blocker	
+Beta-Adrenoceptor Blocker	beta_blocker		
+Beta-Blocker	beta_blocker		
+Beta-Cardone	beta_blocker		
+Beta-Prograne	beta_blocker		
+Beta Adrenoreceptor Blocker	beta_blocker		
+Beta Blocker	beta_blocker		
+Betadren	beta_blocker		
+Betadur	beta_blocker		
+Betaloc	beta_blocker		
+Betaxolol	beta_blocker		
+Betim	beta_blocker		
+Bi-Carzem	calcium_channel_blocker		
+Bipranix	beta_blocker		
+Bisoprolol	beta_blocker		
+Blocadren	beta_blocker		
+Brevibloc	beta_blocker		
+Britiazim	calcium_channel_blocker		
+Cabren	calcium_channel_blocker		
+Calanif	calcium_channel_blocker		
+Calazem	calcium_channel_blocker		
+Calchan	calcium_channel_blocker		
+Calcicard	calcium_channel_blocker		
+Calcilat	calcium_channel_blocker		
+Calcipine	calcium_channel_blocker		
+Calcium-Channel Blocker	calcium_channel_blocker		
+Calcium Channel Blocker	calcium_channel_blocker		
+Candesartan	angiotension_receptor_blocker		
+Capoten	ace_inhibitor		
+Capozide	ace_inhibitor	thiazide_diuretic	
+Capto-Co	ace_inhibitor	thiazide_diuretic	
+Captopril	ace_inhibitor		
+Carace	ace_inhibitor	thiazide_diuretic	
+Caralpha	ace_inhibitor	thiazide_diuretic	
+Cardene	calcium_channel_blocker		
+Cardicor	beta_blocker		
+Cardide	thiazide_diuretic		
+Cardilate	calcium_channel_blocker		
+Cardinol	beta_blocker		
+Cardioplen	calcium_channel_blocker		
+Carteolol	beta_blocker		
+Cartrol	beta_blocker		
+Carvedilol	beta_blocker		
+Celectol	beta_blocker		
+Celiprolol	beta_blocker		
+Centyl	thiazide_diuretic		
+Chlortalidone	thiazide_diuretic		
+Chlorthalidone	thiazide_diuretic		
+Cilazapril	ace_inhibitor		
+Clopamide	thiazide_diuretic		
+Co-amilozide	thiazide_diuretic		
+Co-Aprovel	angiotension_receptor_blocker		
+Co-Betaloc	beta_blocker	thiazide_diuretic	
+Co-Diovan	angiotension_receptor_blocker	thiazide_diuretic	
+Co-Flumactone	thiazide_diuretic		
+Co-prenozide	beta_blocker	thiazide_diuretic	
+Co-tenidone	beta_blocker	thiazide_diuretic	
+Co-triamterzide	thiazide_diuretic		
+Co-Tritace	ace_inhibitor	thiazide_diuretic	
+Co-zidocapt	ace_inhibitor	thiazide_diuretic	
+CoAprovel	thiazide_diuretic		
+Combitens	ace_inhibitor	beta_blocker	
+Congescor	beta_blocker		
+Coracten	calcium_channel_blocker		
+Cordilox	calcium_channel_blocker		
+Corgard	beta_blocker		
+Corgaretic	beta_blocker	thiazide_diuretic	
+Coroday	calcium_channel_blocker		
+Corwin	beta_blocker		
+Cotritace	ace_inhibitor	thiazide_diuretic	
+Coversyl	ace_inhibitor		
+Coversyl Arginine Plus	ace_inhibitor	thiazide_diuretic	
+Coversyl Plus	ace_inhibitor	thiazide_diuretic	
+Cozaar	angiotension_receptor_blocker		
+Cozaar-Comp	angiotension_receptor_blocker	thiazide_diuretic	
+Cozaar Comp	thiazide_diuretic		
+Delvas	thiazide_diuretic		
+Dilcardia	calcium_channel_blocker		
+Diltiazem	calcium_channel_blocker		
+Dilvas	ace_inhibitor		
+Dilzem	calcium_channel_blocker		
+Diovan	angiotension_receptor_blocker		
+Disogram	calcium_channel_blocker		
+Diuril	thiazide_diuretic		
+Dyazide	thiazide_diuretic		
+Dytide	thiazide_diuretic		
+Ecopace	ace_inhibitor		
+Edarbi	angiotension_receptor_blocker		
+Emcor	beta_blocker		
+Enalapril	ace_inhibitor		
+Enduron	thiazide_diuretic		
+Entresto	angiotension_receptor_blocker		
+Eprosartan	angiotension_receptor_blocker		
+Eraldin	beta_blocker		
+Esidrex	thiazide_diuretic		
+Esmolol	beta_blocker		
+Ethibide	thiazide_diuretic		
+Ethimil	calcium_channel_blocker		
+Eucardic	beta_blocker		
+Exforge	angiotension_receptor_blocker	calcium_channel_blocker	
+Felendil	calcium_channel_blocker		
+Felodipine	calcium_channel_blocker		
+Felogen	calcium_channel_blocker		
+Felotens	calcium_channel_blocker		
+Folpik	calcium_channel_blocker		
+Fortipine	calcium_channel_blocker		
+Fosinopril	ace_inhibitor		
+Geangin	calcium_channel_blocker		
+Genalat	calcium_channel_blocker		
+Gopten	ace_inhibitor		
+Horizem	calcium_channel_blocker		
+Hydrenox	thiazide_diuretic		
+Hygroton	thiazide_diuretic		
+Hypaneze	calcium_channel_blocker		
+Hypapril	ace_inhibitor		
+Hypertane	thiazide_diuretic		
+Hypolar	calcium_channel_blocker		
+Hypoloc	beta_blocker		
+Hyteneze	ace_inhibitor		
+Ifirmasta	angiotension_receptor_blocker		
+Imidapril	ace_inhibitor		
+Indapamide	thiazide_diuretic		
+Inderal	beta_blocker		
+Inderetic	beta_blocker	thiazide_diuretic	
+Inderex	beta_blocker	thiazide_diuretic	
+Indipam	thiazide_diuretic		
+Innovace	ace_inhibitor		
+Innozide	ace_inhibitor	thiazide_diuretic	
+Irbesartan	angiotension_receptor_blocker		
+Istin 	calcium_channel_blocker		
+Kalspare	thiazide_diuretic		
+Kalten	beta_blocker	thiazide_diuretic	
+Kaplon	ace_inhibitor		
+Keloc	calcium_channel_blocker		
+Kentiazem	calcium_channel_blocker		
+Kentipine	calcium_channel_blocker		
+Kenzem	calcium_channel_blocker		
+Kerlone	beta_blocker		
+Labetalol	beta_blocker		
+Labrocol	beta_blocker		
+Lacidipine	calcium_channel_blocker		
+Laracor	beta_blocker		
+Lasipressin	beta_blocker		
+Lercanidipine	calcium_channel_blocker		
+Lisicostad	ace_inhibitor	thiazide_diuretic	
+Lisinopril	ace_inhibitor		
+Lisoretic	ace_inhibitor	thiazide_diuretic	
+Lopace	ace_inhibitor		
+Lopranol	beta_blocker		
+Lopresor	beta_blocker		
+Lopresoretic	beta_blocker	thiazide_diuretic	
+Lorvacs	thiazide_diuretic		
+Losartan	angiotension_receptor_blocker		
+Mapemid	thiazide_diuretic		
+Mepranix	beta_blocker		
+Metazem	calcium_channel_blocker		
+Metenix	thiazide_diuretic		
+Metipranolol	beta_blocker		
+Metolazone	thiazide_diuretic		
+Metoprolol	beta_blocker		
+Metoros	beta_blocker		
+Mibefradil	calcium_channel_blocker		
+Micardis	angiotension_receptor_blocker		
+MicardisPlus	angiotension_receptor_blocker	thiazide_diuretic	
+Moducren	beta_blocker	thiazide_diuretic	
+Moduret	thiazide_diuretic		
+Moduretic	thiazide_diuretic		
+Moexipril	ace_inhibitor		
+Molap	calcium_channel_blocker		
+Monocor	beta_blocker		
+Monozide	beta_blocker	thiazide_diuretic	
+Motens	calcium_channel_blocker		
+Nadolol	beta_blocker		
+Natramid	thiazide_diuretic		
+Natrilix	thiazide_diuretic		
+Navidrex	thiazide_diuretic		
+Navispare	thiazide_diuretic		
+Nebilet	beta_blocker		
+Nebivolol	beta_blocker		
+Neo-Bendromax	thiazide_diuretic		
+Neo-Naclex	thiazide_diuretic		
+Neobendromax	thiazide_diuretic		
+Neofel	calcium_channel_blocker		
+Neozipine	calcium_channel_blocker		
+Nephril	thiazide_diuretic		
+Nicardipine	calcium_channel_blocker		
+Nidef	calcium_channel_blocker		
+Nifedipine	calcium_channel_blocker		
+Nifedipress	calcium_channel_blocker		
+Nifedotard	calcium_channel_blocker		
+Nifelease	calcium_channel_blocker		
+Nifensar	calcium_channel_blocker		
+Nifopress	calcium_channel_blocker		
+Nimodipine	calcium_channel_blocker		
+Nimodrel	calcium_channel_blocker		
+Nimotop	calcium_channel_blocker		
+Nindaxa	thiazide_diuretic		
+Nisoldipine	calcium_channel_blocker		
+Nivaten	calcium_channel_blocker		
+Noyada	ace_inhibitor		
+Odrik	ace_inhibitor		
+Olmesartan	angiotension_receptor_blocker		
+Olmetec	angiotension_receptor_blocker		
+Olmetec Plus	thiazide_diuretic		
+Optil 	calcium_channel_blocker		
+Opumide	thiazide_diuretic		
+Oxprenolol	beta_blocker		
+Oxyprenix	beta_blocker		
+Paritane	beta_blocker		
+Parmid	calcium_channel_blocker		
+Penbutolol	beta_blocker		
+Perdix	ace_inhibitor		
+Perindopril	ace_inhibitor		
+Pindolol	beta_blocker		
+Pinefeld	calcium_channel_blocker		
+Plendil	calcium_channel_blocker		
+Posicor	calcium_channel_blocker		
+Practolol	beta_blocker		
+Pralenal	ace_inhibitor		
+Prenylamine	calcium_channel_blocker		
+Prescal	calcium_channel_blocker		
+Prestim	beta_blocker	thiazide_diuretic	
+Prindolol	beta_blocker		
+Probeta La	beta_blocker		
+Propanix	beta_blocker		
+Propatard	beta_blocker		
+Propranolol	beta_blocker		
+Quinalapril	ace_inhibitor		
+Quinapril	ace_inhibitor		
+Quinil	ace_inhibitor		
+Ramipril	ace_inhibitor		
+Ranace	ace_inhibitor		
+Ranvera	calcium_channel_blocker		
+Rapranol	beta_blocker		
+Rawel	thiazide_diuretic		
+Renitec	ace_inhibitor		
+Retalzem	calcium_channel_blocker		
+Saluric	thiazide_diuretic		
+Secadrex	beta_blocker	thiazide_diuretic	
+Sectral	beta_blocker		
+Securon	calcium_channel_blocker		
+Sevikar	angiotension_receptor_blocker	calcium_channel_blocker	
+Sevikar HCT	angiotension_receptor_blocker	calcium_channel_blocker	thiazide_diuretic
+Slo-Pro	beta_blocker		
+Slofedipine	calcium_channel_blocker		
+Slopro	beta_blocker		
+Slow-pren	beta_blocker		
+Slozem	calcium_channel_blocker		
+Soloc	beta_blocker		
+Sotacor	beta_blocker		
+Sotalol	beta_blocker		
+Sotazide	beta_blocker	thiazide_diuretic	
+Spiroprop	beta_blocker		
+Staril	ace_inhibitor		
+Synadrin	calcium_channel_blocker		
+Synuretic	thiazide_diuretic		
+Syprol	beta_blocker		
+Syscor	calcium_channel_blocker		
+Tanatril	ace_inhibitor		
+Tarka	ace_inhibitor	calcium_channel_blocker	
+Telmisartan	angiotension_receptor_blocker		
+Tenben	beta_blocker	thiazide_diuretic	
+Tenchlor	beta_blocker	thiazide_diuretic	
+Tenif	beta_blocker	calcium_channel_blocker	
+Tenoret	beta_blocker	thiazide_diuretic	
+Tenormin	beta_blocker		
+Tensaid	thiazide_diuretic		
+Tensipine	calcium_channel_blocker		
+Tensomex	beta_blocker		
+Tensopril	ace_inhibitor		
+Teveten	angiotension_receptor_blocker		
+Thiazide	thiazide_diuretic		
+Tildiem	calcium_channel_blocker		
+Timolol	beta_blocker		
+Tolerzide	beta_blocker	thiazide_diuretic	
+Tolucombi	angiotension_receptor_blocker	thiazide_diuretic	
+Tolura	angiotension_receptor_blocker		
+Totamol	beta_blocker		
+Totaretic	beta_blocker	thiazide_diuretic	
+Trandate	beta_blocker		
+Trandolapril	ace_inhibitor		
+Trasicor	beta_blocker		
+Trasidrex	beta_blocker	thiazide_diuretic	
+Triam-Co	thiazide_diuretic		
+Triamaxco	thiazide_diuretic		
+Triamco	thiazide_diuretic		
+Triapin	ace_inhibitor	calcium_channel_blocker	
+Tritace	ace_inhibitor		
+Uard	calcium_channel_blocker		
+Unipine	calcium_channel_blocker		
+Univer 	calcium_channel_blocker		
+Urizide	thiazide_diuretic		
+Valni	calcium_channel_blocker		
+Valsartan	angiotension_receptor_blocker		
+Varbim	thiazide_diuretic		
+Vasad	calcium_channel_blocker		
+Vasaten	beta_blocker		
+Vascace	ace_inhibitor		
+Vascalpha	calcium_channel_blocker		
+Vera-Til	calcium_channel_blocker		
+Verapamil	calcium_channel_blocker		
+Verapress	calcium_channel_blocker		
+Verpamil	calcium_channel_blocker		
+Vertab	calcium_channel_blocker		
+Viazem	calcium_channel_blocker		
+Viskaldix	beta_blocker	thiazide_diuretic	
+Visken	beta_blocker		
+Vivacor	beta_blocker		
+Xamoterol	beta_blocker		
+Xuret	thiazide_diuretic		
+Zanidip	calcium_channel_blocker		
+Zaroxolyn	thiazide_diuretic		
+Zemret	calcium_channel_blocker		
+Zemtard	calcium_channel_blocker		
+Zestoretic	ace_inhibitor	thiazide_diuretic	
+Zestril	ace_inhibitor		
+Zida-Co	thiazide_diuretic		
+Zildil	calcium_channel_blocker		
+Zolvera	calcium_channel_blocker		
+Zovencal	angiotension_receptor_blocker		
