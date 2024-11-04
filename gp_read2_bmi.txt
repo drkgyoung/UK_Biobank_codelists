@@ -1,0 +1,18 @@
+Code	Description
+22K..	Body Mass Index
+22K1.	Body Mass Index normal K/M2
+22K2.	Body Mass Index high K/M2
+22K3.	Body Mass Index low K/M2
+22K4.	Body mass index index 25-29 - overweight
+22K5.	Body mass index 30+ - obesity
+22K6.	Body mass index less than 20
+22K7.	Body mass index 40+ - severely obese
+22K8.	Body mass index 20-24 - normal
+22K9.	Body mass index centile
+22K90	Baseline body mass index centile
+22K9K	Down's syndrome body mass index centile
+22KA.	Target body mass index
+22KB.	Baseline body mass index
+22KC.	Obese class I (body mass index 30.0 - 34.9)
+22KD.	Obese class II (body mass index 35.0 - 39.9)
+22KE.	Obese class III (body mass index equal to or greater than 40.0)
